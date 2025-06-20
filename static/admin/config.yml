@@ -3,6 +3,8 @@ backend:
   repo: PetalLifeStyle/petallifestyle
   branch: main
 
+site_url: https://petallifestyle.pages.dev
+
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 

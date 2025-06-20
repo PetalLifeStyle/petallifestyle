@@ -1,0 +1,4 @@
+baseURL = 'https://petallifestyle.github.io/'
+languageCode = 'en-us'
+title = 'Petal Lifestyle'
+theme = "blowfish"

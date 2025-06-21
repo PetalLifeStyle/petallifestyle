@@ -1,11 +1,8 @@
 backend:
   name: github
   repo: PetalLifeStyle/petallifestyle
-  branch: main
-  auth_type: oauth
-  app_id: Ov23liyHXaCokLN8NiOf  # 👈 Replace with your GitHub OAuth Client ID
-
-site_url: https://petallifestyle.pages.dev
+  branch: main # Branch to update (optional; defaults to master)
+  base_url: https://petallifestyle.pages.dev/
 media_folder: static/img
 public_folder: /img
 collections:

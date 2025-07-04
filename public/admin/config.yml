@@ -15,29 +15,10 @@ collections:
     editor:
       preview: false
     fields:
-      fields:
-  - { label: 'Title', name: 'title', widget: 'string' }
-  - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-  - { label: 'Description', name: 'description', widget: 'string' }
-  - label: "Category"
-    name: "categories"
-    widget: "select"
-    multiple: true
-    options:
-      - { label: "Self-Care", value: "Self-Care" }
-      - { label: "Skincare", value: "Skincare" }
-      - { label: "Bodycare", value: "Bodycare" }
-      - { label: "Mental Health", value: "Mental Health" }
-      - { label: "SelfCare", value: "SelfCare" }
-      - { label: "Home Decor", value: "Home Decor" }
-      - { label: "Kitchen Essentials", value: "Kitchen Essentials" }
-      - { label: "Bathroom Essentials", value: "Bathroom Essentials" }
-      - { label: "Productivity", value: "Productivity" }
-      - { label: "Learn Korean", value: "Learn Korean" }
-      - { label: "AI Tools", value: "AI Tools" }
-      - { label: "Cool Websites", value: "Cool Websites" }
-      - { label: "Islamic Corner", value: "Islamic Corner" }
-  - { label: "Tags", name: "tags", widget: "list", default: [] }
-  - { label: "Draft", name: "draft", widget: "boolean", default: false }
-  - { label: 'Body', name: 'body', widget: 'markdown' }
-  - { label: 'Featured Image', name: 'featured_image', widget: 'image' }
+       - { label: 'Title', name: 'title', widget: 'string' }
+       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+       - { label: 'Description', name: 'description', widget: 'string' }
+       - { label: "Tags", name: "tags", widget: "list", default: [] }
+       - { label: "Draft", name: "draft", widget: "boolean", default: false }
+       - { label: 'Body', name: 'body', widget: 'markdown' }
+       - { label: 'Featured Image', name: 'featured_image', widget: 'image' }

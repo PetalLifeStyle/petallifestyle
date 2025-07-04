@@ -1,0 +1,23 @@
+/* assets/css/override.css */
+
+.navbar__menu {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  gap: 0.5rem; /* space between items */
+}
+
+.navbar__item {
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.navbar__item a {
+  padding: 0.3rem 0.7rem;
+  display: inline-block;
+  white-space: nowrap;
+}
+.navbar {
+  font-size: 1rem; /* Reduce font size if needed */
+  text-transform: none; /* Undo ALL CAPS if you don't want it */
+}

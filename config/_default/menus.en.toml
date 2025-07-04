@@ -10,10 +10,96 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+#[[main]]
+ # name = "Home"
+  #pageRef = "/"
+  #weight = 5
+
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Self-Care & Wellness"
   weight = 10
+
+[[main]]
+  name = "Skincare"
+  parent = "Self-Care & Wellness"
+  pageRef = "categories/skincare"
+  weight = 11
+[[main]]
+  name = "Bodycare"
+  parent = "Self-Care & Wellness"
+  pageRef = "categories/bodycare"
+  weight = 12
+[[main]]
+  name = "Mental Health"
+  parent = "Self-Care & Wellness"
+  pageRef = "categories/mental-health"
+  weight = 13
+[[main]]
+  name = "SelfCare"
+  parent = "Self-Care & Wellness"
+  pageRef = "categories/self-care"
+  weight = 14
+
+
+[[main]]
+  name = "Aesthetic Decor"
+  weight = 20
+
+[[main]]
+  name = "Home Decor"
+  parent = "Aesthetic Decor"
+  pageRef = "categories/home-decor"
+  weight = 21
+[[main]]
+  name = "Kitchen Essentials"
+  parent = "Aesthetic Decor"
+  pageRef = "categories/kitchen-essentials"
+  weight = 22
+[[main]]
+  name = "Bathroom Essentials"
+  parent = "Aesthetic Decor"
+  pageRef = "categories/bathroom-essentials"
+  weight = 23
+
+
+
+[[main]]
+  name = "Productivity & Learning"
+  weight = 25
+
+[[main]]
+  name = "Productivity"
+  parent = "Productivity & Learning"
+  pageRef = "categories/productivity"
+  weight = 26
+[[main]]
+  name = "Learn Korean"
+  parent = "Productivity & Learning"
+  pageRef = "categories/learn-korean"
+  weight = 27
+
+
+[[main]]
+name = "AI Tools & Cool Websites"
+weight = 30
+
+[[main]]
+name = "AI Tools"
+parent = "AI Tools & Cool Websites"
+pageRef = "categories/ai-tools"
+weight = 31
+
+[[main]]
+name = "Cool Websites"
+parent = "AI Tools & Cool Websites"
+pageRef = "categories/cool-websites"
+weight = 32
+
+
+[[main]]
+  name = "Islamic Corner"
+  weight = 35
+
 
 #[[main]]
 #  name = "Parent"

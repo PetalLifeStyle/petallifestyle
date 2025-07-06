@@ -6,6 +6,8 @@
     <description>Recent content on Petal Lifestyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
+    <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
     
     <lastBuildDate>Thu, 03 Jul 2025 01:57:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,10 +15,20 @@
       <title>Fun Websites: Unusual Websites That’ll Make You Say, ‘Why Didn’t I Know About This?’</title>
       <link>http://localhost:1313/posts/fun-websites-unusual-websites-thatll-make-you-say-why-didnt-i-know-about-this-/</link>
       <pubDate>Thu, 03 Jul 2025 01:57:00 +0000</pubDate>
-      
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
       <guid>http://localhost:1313/posts/fun-websites-unusual-websites-thatll-make-you-say-why-didnt-i-know-about-this-/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fun-websites-unusual-websites-thatll-make-you-say-why-didnt-i-know-about-this-/featured.png" />
+    </item>
+    
+    <item>
+      <title>Virtual Escaping: 10 Fun Websites for Instant Relaxation and Exploration</title>
+      <link>http://localhost:1313/posts/virtual-escaping-10-fun-websites-for-instant-relaxation-and-exploration/</link>
+      <pubDate>Tue, 01 Jul 2025 04:26:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/virtual-escaping-10-fun-websites-for-instant-relaxation-and-exploration/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/virtual-escaping-10-fun-websites-for-instant-relaxation-and-exploration/featured.png" />
     </item>
     
   </channel>

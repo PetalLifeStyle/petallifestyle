@@ -3,12 +3,12 @@ title: "Fun Websites: Unusual Websites That’ll Make You Say, ‘Why Didn’t I
   About This?’"
 date: 2025-07-03T01:57:00.000Z
 description: 10 Fun websites to spend your time
-category: cool-websites
+categories: cool-websites
 tags:
   - FunWebsites
   - CoolWebsites
 draft: false
-featured_image: /img/cool-websites.png
+featured_image: featured.png
 ---
 The internet is full of hidden gems. These quirky and fascinating websites are perfect for when you need a break or just want to explore something unique. Let’s dive into some of the coolest online discoveries you didn’t know you needed!
 

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CoolWebsites on Petal Lifestyle</title>
+    <link>http://localhost:1313/tags/coolwebsites/</link>
+    <description>Recent content in CoolWebsites on Petal Lifestyle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+    <lastBuildDate>Thu, 03 Jul 2025 01:57:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/coolwebsites/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fun Websites: Unusual Websites That’ll Make You Say, ‘Why Didn’t I Know About This?’</title>
+      <link>http://localhost:1313/posts/fun-websites-unusual-websites-thatll-make-you-say-why-didnt-i-know-about-this-/</link>
+      <pubDate>Thu, 03 Jul 2025 01:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/fun-websites-unusual-websites-thatll-make-you-say-why-didnt-i-know-about-this-/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/fun-websites-unusual-websites-thatll-make-you-say-why-didnt-i-know-about-this-/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -6,8 +6,18 @@
     <description>Recent content in Categories on Petal Lifestyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 Welcome To Petal Lifestyle</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <lastBuildDate>Thu, 03 Jul 2025 01:57:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/cool-websites/</link>
+      <pubDate>Thu, 03 Jul 2025 01:57:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/cool-websites/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title></title>
@@ -35,16 +45,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/categories/bodycare/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/categories/cool-websites/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/cool-websites/</guid>
       <description></description>
       
     </item>

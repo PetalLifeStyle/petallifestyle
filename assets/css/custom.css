@@ -1,23 +1,34 @@
-/* assets/css/override.css */
-
-.navbar__menu {
-  display: flex;
-  flex-wrap: nowrap;
-  overflow-x: auto;
-  gap: 0.5rem; /* space between items */
+.thumbnail_card {
+  background-size: auto 100% !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  height: auto !important;
+  min-height: 350px !important; /* Adjust as needed */
+  padding-bottom: 20% !important; /* Adjust aspect ratio as needed */
+}
+.max-w-prose {
+  max-width: 100ch;
 }
 
-.navbar__item {
-  white-space: nowrap;
-  flex-shrink: 0;
+h1 {
+  text-align: left;
 }
 
-.navbar__item a {
-  padding: 0.3rem 0.7rem;
-  display: inline-block;
-  white-space: nowrap;
+.ml-auto {
+  margin-left: auto;
 }
-.navbar {
-  font-size: 1rem; /* Reduce font size if needed */
-  text-transform: none; /* Undo ALL CAPS if you don't want it */
+
+.lg\:ml-auto {
+  margin-left: auto;
 }
+.max-w-full {
+  max-width: 100%;
+}
+
+body * {
+  justify-content: center;
+}
+
+
+
+

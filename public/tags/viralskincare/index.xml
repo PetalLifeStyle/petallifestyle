@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ViralSkincare on Petal Lifestyle</title>
+    <link>http://localhost:1313/tags/viralskincare/</link>
+    <description>Recent content in ViralSkincare on Petal Lifestyle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
+    <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
+    
+    <lastBuildDate>Thu, 29 May 2025 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/viralskincare/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The 7-Step Korean Skincare Routine: What You Actually Need</title>
+      <link>http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/</link>
+      <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/featured.png" />
+    </item>
+    
+    <item>
+      <title>Viral Korean Skincare Products That Are Totally Worth the Hype</title>
+      <link>http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/</link>
+      <pubDate>Sat, 10 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -96,9 +96,9 @@ pageRef = "categories/cool-websites"
 weight = 32
 
 
-[[main]]
-  name = "Islamic Corner"
-  weight = 35
+#[[main]]
+#  name = "Islamic Corner"
+#  weight = 35
 
 
 #[[main]]

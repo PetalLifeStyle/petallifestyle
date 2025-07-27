@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WeeklyPlanning on Petal Lifestyle</title>
+    <link>http://localhost:1313/tags/weeklyplanning/</link>
+    <description>Recent content in WeeklyPlanning on Petal Lifestyle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
+    <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
+    
+    <lastBuildDate>Sun, 20 Apr 2025 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/weeklyplanning/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Weekly Planning in 10 Minutes? Yes, It’s Possible! 🕒</title>
+      <link>http://localhost:1313/posts/weekly-planning-in-10-minutes-yes-its-possible/</link>
+      <pubDate>Sun, 20 Apr 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/weekly-planning-in-10-minutes-yes-its-possible/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/weekly-planning-in-10-minutes-yes-its-possible/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

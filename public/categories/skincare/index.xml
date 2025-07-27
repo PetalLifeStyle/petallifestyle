@@ -9,7 +9,57 @@
     <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
     <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
     
-    <atom:link href="http://localhost:1313/categories/skincare/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jun 2025 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/skincare/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Best Korean Sunscreens Based On Skin Type</title>
+      <link>http://localhost:1313/posts/the-best-korean-sunscreens-based-on-skin-type/</link>
+      <pubDate>Sun, 22 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/the-best-korean-sunscreens-based-on-skin-type/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-best-korean-sunscreens-based-on-skin-type/featured.png" />
+    </item>
+    
+    <item>
+      <title>Top 5 Korean Toner Pads to Transform Your Skincare Routine</title>
+      <link>http://localhost:1313/posts/top-5-korean-toner-pads-to-transform-your-skincare-routine/</link>
+      <pubDate>Sat, 07 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/top-5-korean-toner-pads-to-transform-your-skincare-routine/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/top-5-korean-toner-pads-to-transform-your-skincare-routine/featured.png" />
+    </item>
+    
+    <item>
+      <title>The 7-Step Korean Skincare Routine: What You Actually Need</title>
+      <link>http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/</link>
+      <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/featured.png" />
+    </item>
+    
+    <item>
+      <title>Viral Korean Skincare Products That Are Totally Worth the Hype</title>
+      <link>http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/</link>
+      <pubDate>Sat, 10 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/featured.png" />
+    </item>
+    
+    <item>
+      <title>Say Goodbye to Stubborn Blackheads: Easy DIY &amp; Product-Based Methods!</title>
+      <link>http://localhost:1313/posts/say-goodbye-to-stubborn-blackheads-easy-diy--product-based-methods/</link>
+      <pubDate>Sun, 27 Apr 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/say-goodbye-to-stubborn-blackheads-easy-diy--product-based-methods/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/say-goodbye-to-stubborn-blackheads-easy-diy--product-based-methods/featured.png" />
+    </item>
     
   </channel>
 </rss>

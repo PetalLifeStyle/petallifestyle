@@ -9,7 +9,27 @@
     <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
     <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
     
-    <atom:link href="http://localhost:1313/categories/self-care/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jun 2025 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/self-care/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>10 Simple Self-Care Ideas to De-Stress After a Busy Day</title>
+      <link>http://localhost:1313/posts/10-simple-self-care-ideas-to-de-stress-after-a-busy-day/</link>
+      <pubDate>Tue, 10 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/10-simple-self-care-ideas-to-de-stress-after-a-busy-day/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/10-simple-self-care-ideas-to-de-stress-after-a-busy-day/featured.png" />
+    </item>
+    
+    <item>
+      <title>5 Detox Drinks You Can Make at Home: Refresh, Recharge, and Feel Amazing!</title>
+      <link>http://localhost:1313/posts/5-detox-drinks-you-can-make-at-home-refresh-recharge-and-feel-amazing/</link>
+      <pubDate>Thu, 22 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/5-detox-drinks-you-can-make-at-home-refresh-recharge-and-feel-amazing/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/5-detox-drinks-you-can-make-at-home-refresh-recharge-and-feel-amazing/featured.png" />
+    </item>
     
   </channel>
 </rss>

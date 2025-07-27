@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SmellGood on Petal Lifestyle</title>
+    <link>http://localhost:1313/tags/smellgood/</link>
+    <description>Recent content in SmellGood on Petal Lifestyle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
+    <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
+    
+    <lastBuildDate>Thu, 17 Jul 2025 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/smellgood/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How to Smell Good All Day Long: The Ultimate Guide</title>
+      <link>http://localhost:1313/posts/how-to-smell-good-all-day-long-the-ultimate-guide/</link>
+      <pubDate>Thu, 17 Jul 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/how-to-smell-good-all-day-long-the-ultimate-guide/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/how-to-smell-good-all-day-long-the-ultimate-guide/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

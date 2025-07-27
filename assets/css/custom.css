@@ -3,7 +3,7 @@
   background-repeat: no-repeat !important;
   background-position: center !important;
   height: auto !important;
-  min-height: 350px !important; /* Adjust as needed */
+  min-height: 320px !important; /* Adjust as needed */
   padding-bottom: 20% !important; /* Adjust aspect ratio as needed */
 }
 .max-w-prose {

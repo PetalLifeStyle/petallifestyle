@@ -2,7 +2,7 @@
 title: "Stay Fit Without the Gym: 10 Fun Ways to Get Active at Home"
 date: 2025-05-05T06:32:00.000Z
 description: "Stay Fit Without the Gym: 10 Fun Ways to Get Active at Home"
-categories: selfcare
+categories: self-care
 tags:
   - stayFit
   - gym

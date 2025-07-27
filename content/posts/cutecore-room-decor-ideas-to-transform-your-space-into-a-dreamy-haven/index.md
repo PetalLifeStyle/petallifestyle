@@ -555,7 +555,7 @@ Pro Tip: Try terrariums with fairy lights for a magical garden vibe that feels 
 
 # 9. Interactive Corners 📚🎮
 
-Create a dedicated space for your favorite activities—whether it’s a [***reading nook***](https://www.notion.so/How-to-Create-a-Cozy-Reading-Corner-That-s-Pure-Bliss-2030dff09b948004a1e9c2d83ce8df47?pvs=21) with cushions and blankets, a gaming setup with kawaii accessories, or a journaling desk with cute stationery. It’s all about making your room feel personal and fun! You can check out ideas on creating a reading nook [***here* .**](https://www.notion.so/How-to-Create-a-Cozy-Reading-Corner-That-s-Pure-Bliss-2030dff09b948004a1e9c2d83ce8df47?pvs=21)
+Create a dedicated space for your favorite activities—whether it’s a [***reading nook***](https://petallifestyle.pages.dev/posts/how-to-create-a-cozy-reading-corner-thats-pure-bliss/) with cushions and blankets, a gaming setup with kawaii accessories, or a journaling desk with cute stationery. It’s all about making your room feel personal and fun! You can check out ideas on creating a reading nook [***here* .**](https://petallifestyle.pages.dev/posts/how-to-create-a-cozy-reading-corner-thats-pure-bliss/)
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
   <div style="flex: 1 1 160px; text-align: center;">

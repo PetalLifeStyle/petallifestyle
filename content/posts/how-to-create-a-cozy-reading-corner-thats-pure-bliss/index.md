@@ -208,7 +208,7 @@ Comfort is king when it comes to reading for hours. Think about:
 Nothing says “cozy” like soft, inviting textures. Consider:
 
 - **Throw Blankets:** A chunky knit blanket or a fleece throw is a must-have.
-- **Pillows:** Mix and match different sizes, shapes, and patterns for a stylish yet comfy vibe**.**
+- **Pillows:** Mix and match different sizes, shapes, and patterns for a stylish yet comfy vibe.
 - **Rugs:** A fluffy or textured rug underfoot ties everything together.
 
 **Here are some products that caught my eye:**

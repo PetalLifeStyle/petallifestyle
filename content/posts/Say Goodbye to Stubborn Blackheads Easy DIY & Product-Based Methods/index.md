@@ -135,7 +135,7 @@ This is where the magic happens! Apply a generous layer of a pore clay mask, lik
 
 ## Step 4: Soothe with Toner Pads
 
-After cleansing, use toner pads to calm and hydrate your skin. NEOGEN Dermalogy Real Cica Pad or BRING GREEN Tea Tree CICA Soothing Toner PAD is a fantastic option to soothe post-mask skin. If you're looking for the perfect toner pads to take your skincare game to the next level, you check out **[*Top 5 Korean Toner Pads to Transform Your Skincare Routine .*](https://www.notion.so/Top-5-Korean-Toner-Pads-to-Transform-Your-Skincare-Routine-2030dff09b948026b845cf9fcf44f032?pvs=21)**
+After cleansing, use toner pads to calm and hydrate your skin. NEOGEN Dermalogy Real Cica Pad or BRING GREEN Tea Tree CICA Soothing Toner PAD is a fantastic option to soothe post-mask skin. If you're looking for the perfect toner pads to take your skincare game to the next level, you check out [*Top 5 Korean Toner Pads to Transform Your Skincare Routine.*](https://petallifestyle.pages.dev/posts/the-best-korean-sunscreens-based-on-skin-type/)
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">

@@ -101,7 +101,7 @@ Messy cords can ruin the vibe. Use cable organizers, clips, or even a cable box 
 
 # 10. Aesthetic Tech
 
-If you’re upgrading, look for [***gadgets***](https://www.notion.so/10-Interactive-Websites-That-Will-Blow-Your-Mind-You-ll-Wish-You-Found-These-Sooner-1e10dff09b94811aacccdf054603c848?pvs=21) in sleek designs. Wireless keyboards, matching monitors, or noise-canceling headphones in neutral tones add to the aesthetic.
+If you’re upgrading, look for [***gadgets***](https://petallifestyle.pages.dev/posts/10-interactive-websites-that-will-blow-your-mind-youll-wish-you-found-these-sooner/) in sleek designs. Wireless keyboards, matching monitors, or noise-canceling headphones in neutral tones add to the aesthetic.
 
 ![](https://m.media-amazon.com/images/I/616gN08fIXL._AC_SL1500_.jpg)
 

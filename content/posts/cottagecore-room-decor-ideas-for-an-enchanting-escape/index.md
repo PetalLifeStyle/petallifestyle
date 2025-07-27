@@ -176,7 +176,7 @@ Soft, warm lighting is key to creating a cozy atmosphere. Opt for fairy lights, 
 
 # 6. Add Personal Touches
 
-Cottagecore isn’t about replicating someone else’s room; it’s about making the space uniquely yours. Incorporate your favorite books, framed pressed flowers, or a collection of vintage teacups. While you are at it you can even go for [*creating a reading corner](https://petallifestyle.wordpress.com/2025/01/05/how-to-create-a-cozy-reading-corner-thats-pure-bliss/).*
+Cottagecore isn’t about replicating someone else’s room; it’s about making the space uniquely yours. Incorporate your favorite books, framed pressed flowers, or a collection of vintage teacups. While you are at it you can even go for [creating a reading corner](https://petallifestyle.pages.dev/posts/how-to-create-a-cozy-reading-corner-thats-pure-bliss/).
 
 **Pro Tip:** Display a handmade quilt or DIY crafts to highlight your creativity.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -244,9 +244,9 @@ Decorate terracotta pots with pastel paints and simple floral designs for your p
 
 **💡 You Might Also Like:**
 
-- [***Eclectic Boho Bedroom Ideas***](https://www.notion.so/Eclectic-Boho-Bedroom-Ideas-Design-Your-Space-with-Vintage-Bohemian-and-Modern-Touches-2040dff09b948077a5c0dc86ae30ccad?pvs=21)
-- [***Cutecore Room Decor Ideas***](https://www.notion.so/Cutecore-Room-Decor-Ideas-to-Transform-Your-Space-into-a-Dreamy-Haven-2030dff09b9480c09937e30e79eaa86b?pvs=21)
-- [***Aesthetic home office***](https://www.notion.so/Essentials-for-an-Aesthetic-Home-Office-2030dff09b948098b950ed5f10c30e3a?pvs=21)
+- [***Eclectic Boho Bedroom Ideas***](https://petallifestyle.pages.dev/posts/eclectic-boho-bedroom-ideas-design-your-space-with-vintage-bohemian-and-modern-touches/)
+- [***Cutecore Room Decor Ideas***](https://petallifestyle.pages.dev/posts/cutecore-room-decor-ideas-to-transform-your-space-into-a-dreamy-haven/)
+- [***Aesthetic home office***](https://petallifestyle.pages.dev/posts/essentials-for-an-aesthetic-home-office/)
 
 ---
 

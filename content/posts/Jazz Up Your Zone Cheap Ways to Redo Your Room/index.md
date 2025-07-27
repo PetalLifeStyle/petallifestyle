@@ -222,7 +222,7 @@ Time to channel your inner artist! DIY projects are not just fun, they're also e
 </div>
 
 
-**Looking for more dreamy decor inspo? Check out these [*Cutecore*](https://www.notion.so/Cutecore-Room-Decor-Ideas-to-Transform-Your-Space-into-a-Dreamy-Haven-2030dff09b9480c09937e30e79eaa86b?pvs=21) [](https://petallifestyle.wordpress.com/2025/01/04/cutecore-room-decor-ideas-to-transform-your-space-into-a-dreamy-haven/)and [*Boho-style room*](https://www.notion.so/Eclectic-Boho-Bedroom-Ideas-Design-Your-Space-with-Vintage-Bohemian-and-Modern-Touches-2040dff09b948077a5c0dc86ae30ccad?pvs=21) [](https://petallifestyle.wordpress.com/2025/01/05/eclectic-boho-bedroom-ideas-design-your-space-with-vintage-bohemian-and-modern-touches/)ideas next!**
+**Looking for more dreamy decor inspo? Check out these [*Cutecore*](https://petallifestyle.pages.dev/posts/cutecore-room-decor-ideas-to-transform-your-space-into-a-dreamy-haven/)and [*Boho-style room*](https://petallifestyle.pages.dev/posts/eclectic-boho-bedroom-ideas-design-your-space-with-vintage-bohemian-and-modern-touches/)ideas next!**
 
 # 3. Small Space, Big Style 📏
 

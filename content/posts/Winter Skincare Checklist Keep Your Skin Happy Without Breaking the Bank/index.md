@@ -67,7 +67,7 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 
 **• Face:** Use a gentle exfoliant 1-2 times a week to remove dead skin cells, such as Beauty of Joseon Apricot Blossom Peeling Gel.
 
-**• Body:** Try a [***DIY sugar scrub***](https://www.notion.so/DIY-Body-Scrub-Recipes-Transform-Your-Skin-Using-Kitchen-Ingredients-2040dff09b948071ab61c5bcf96f606a?pvs=21)or use Tree Hut Shea Sugar Scrub for your elbows, knees, and hands.
+**• Body:** Try a [***DIY sugar scrub***](https://petallifestyle.pages.dev/posts/diy-body-scrub-recipes-transform-your-skin-using-kitchen-ingredients/)or use Tree Hut Shea Sugar Scrub for your elbows, knees, and hands.
 
 **• Feet:** Use a pumice stone in the shower to keep heels smooth.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -122,7 +122,7 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 
 **• Face Mask:** Mix yogurt, honey, and oatmeal for an instant hydration boost.
 
-**• [*Body Scrub:*](https://www.notion.so/DIY-Body-Scrub-Recipes-Transform-Your-Skin-Using-Kitchen-Ingredients-2040dff09b948071ab61c5bcf96f606a?pvs=21)** Combine coconut oil and sugar for a nourishing exfoliant.
+**• [*Body Scrub:*](https://petallifestyle.pages.dev/posts/diy-body-scrub-recipes-transform-your-skin-using-kitchen-ingredients/)** Combine coconut oil and sugar for a nourishing exfoliant.
 
 **• Foot Soak:** Use warm water with Epsom salts and a few drops of lavender oil.
 

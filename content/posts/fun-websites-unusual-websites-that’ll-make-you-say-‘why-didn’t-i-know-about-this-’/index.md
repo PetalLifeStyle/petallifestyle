@@ -48,7 +48,7 @@ Teleport yourself to a random location on Google Street View. Explore remote vil
 
 # 6. [SuperCook](https://www.supercook.com/#/desktop)
 
-Got random ingredients at home? Enter them here, and [SuperCook](https://www.supercook.com/#/desktop) will find recipes you can make. [Supercook](https://www.supercook.com/#/desktop) helps you find recipes with what you already have, but are you missing out on tools that could make cooking even easier? Check out these \[\*\**10 kitchen gadgets you’ll actually use daily]
+Got random ingredients at home? Enter them here, and [SuperCook](https://www.supercook.com/#/desktop)will find recipes you can make. [Supercook](https://www.supercook.com/#/desktop)helps you find recipes with what you already have, but are you missing out on tools that could make cooking even easier? Check out these [10 kitchen gadgets you’ll actually use daily](https://petallifestyle.pages.dev/posts/top-10-kitchen-gadgets-youll-actually-use-daily/).
 
 **Why it’s a lifesaver:** Never wonder what to cook again!
 
@@ -66,7 +66,7 @@ An endlessly zooming piece of collaborative art that takes you on a surreal jour
 
 # 9. [GeoGuessr](https://www.geoguessr.com/)
 
-Test your geography skills by guessing where in the world you are based on random Google Street View images. You can check out more websites like this here- \[Virtual Escapes: 10 Websites for Instant Relaxation and Exploration]
+Test your geography skills by guessing where in the world you are based on random Google Street View images. You can check out more websites like this here- [Virtual Escapes: 10 Websites for Instant Relaxation and Exploration](https://petallifestyle.pages.dev/posts/virtual-escaping-10-fun-websites-for-instant-relaxation-and-exploration/).
 
 **Why it’s engaging:** It’s fun and educational for all ages.
 

@@ -24,7 +24,7 @@ googleAnalytics = "G-CV9JTBKGZF"
 
 
 [pagination]
-  pagerSize = 10
+  pagerSize = 9
 
 [imaging]
   anchor = 'Center'

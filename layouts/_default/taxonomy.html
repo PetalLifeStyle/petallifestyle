@@ -1,0 +1,27 @@
+{{ define "main" }}
+{{ .Scratch.Set "scope" "list" }}
+{{ if .Site.Params.list.showHero | default false }}
+{{ $heroStyle := print "hero/" .Site.Params.list.heroStyle ".html" }}
+{{ if templates.Exists ( printf "partials/%s" $heroStyle ) }}
+{{ partial $heroStyle . }}
+{{ else }}
+{{ partial "hero/basic.html" . }}
+{{ end }}
+{{- end -}}
+<section class="section">
+  <div class="container">
+    <h1 class="title">{{ .Title }}</h1>
+
+    {{ if .Pages }}
+      <div class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+        {{ range .Pages }}
+          {{ partial "article-link/card.html" . }}
+        {{ end }}
+      </div>
+    {{ else }}
+      <p>No posts found in this category.</p>
+    {{ end }}
+
+  </div>
+</section>
+{{ end }}

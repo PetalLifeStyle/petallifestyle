@@ -7,7 +7,7 @@
   padding-bottom: 20% !important; /* Adjust aspect ratio as needed */
 }
 .max-w-prose {
-  max-width: 100ch;
+  max-width: 120ch;
 }
 
 h1 {
@@ -28,6 +28,12 @@ h1 {
 body * {
   justify-content: center;
 }
+
+.prose {
+  color: #1a1a1a !important;
+  font-weight: 400 !important;
+}
+
 
 
 

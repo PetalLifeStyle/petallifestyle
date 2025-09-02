@@ -141,6 +141,32 @@ Make dua to allah to ease it for you. There’s a beautiful dua that always stay
   <figcaption>Source: Islamkazikr.com</figcaption>
 </figure>
 
+<div align="center">
+
+<a href="https://petallifestyle.gumroad.com/l/dailyislamicduacards" 
+   style="background-color:#FADADD; 
+          color:#333; 
+          padding:14px 28px; 
+          text-decoration:none; 
+          border-radius:12px; 
+          font-weight:600; 
+          font-size:16px; 
+          font-family:sans-serif; 
+          box-shadow:0px 4px 8px rgba(0,0,0,0.15); 
+          display:inline-block;
+          transition: all 0.3s ease;"
+   onmouseover="this.style.backgroundColor='#f7c6d4'; this.style.textDecoration='underline'; this.style.boxShadow='0px 6px 12px rgba(0,0,0,0.2)';"
+   onmouseout="this.style.backgroundColor='#FADADD'; this.style.textDecoration='none'; this.style.boxShadow='0px 4px 8px rgba(0,0,0,0.15)';">
+🌸 Get More Daily Islamic Dua Flashcards For Free 🌸
+</a>
+
+<p style="margin-top:10px; font-size:14px; color:#666; font-style:italic; text-decoration:underline;">
+Click to access your free printable set
+</p>
+
+</div>
+
+
 ### 11. Replace music with nasheeds (vocal-only)
 If you're struggling with the habit of listening to music, try replacing it with nasheed. It’s a gentle shift that can actually boost your imaan. I personally find strength in a Bengali nasheed about parda—whenever I feel tempted to loosen my hijab, it brings me back to my purpose.
 But be cautious: not all nasheeds are free from musical instruments. Some include background music, and even vocal imitations of instruments can be controversial. Scholars differ on this, but Allah knows best. So let’s aim for *‘azimah’*—not just what’s *ja’iz* (permissible), but what’s best. We’re not here to scrape by—we want to pass with flying colors, just like in our exams.

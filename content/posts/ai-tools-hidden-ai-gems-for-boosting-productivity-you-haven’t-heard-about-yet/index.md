@@ -14,7 +14,7 @@ tags:
   - AITools
   - hiddenAiTools
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Are you tired of the same old productivity apps? Sure, Notion, Trello, and ChatGPT are great, but what about the AI tools no one is talking about yet? Hidden gems that can skyrocket your efficiency without the hype?
 

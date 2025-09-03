@@ -8,7 +8,7 @@ tags:
   - kawaiiOffice
   - homeDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Transforming your home office into a kawaii (cute) haven doesn’t just make it more fun—it can boost your productivity too! By surrounding yourself with cheerful and charming items, you create an atmosphere that inspires creativity and focus. Here are some adorable decor tips to make your workspace both functional and cute:
@@ -62,6 +62,25 @@ Stay organized in style with a kawaii-themed desk organizer set. Whether it’s 
   </div>
 
 </div>
+<div align="center">
 
+<a href="https://petallifestyle.gumroad.com/l/pasteltodolist?layout=profile" 
+   style="background-color:#FADADD; 
+          color:#333; 
+          padding:14px 28px; 
+          text-decoration:none; 
+          border-radius:12px; 
+          font-weight:600; 
+          font-size:16px; 
+          font-family:sans-serif; 
+          box-shadow:0px 4px 8px rgba(0,0,0,0.15); 
+          display:inline-block;
+          transition: all 0.3s ease;"
+   onmouseover="this.style.backgroundColor='#f7c6d4'; this.style.textDecoration='underline'; this.style.boxShadow='0px 6px 12px rgba(0,0,0,0.2)';"
+   onmouseout="this.style.backgroundColor='#FADADD'; this.style.textDecoration='none'; this.style.boxShadow='0px 4px 8px rgba(0,0,0,0.15)';">
+📓 Check Out Free Printable Planner Here 📓
+</a>
+
+</div>
 
 A cute, well-decorated space can help create a positive, focused mindset. So, why not add a touch of kawaii to your home office and enjoy working in a space that makes you smile?

@@ -9,7 +9,7 @@ tags:
   - UsefulWebsites
   - VirtualEscaping
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Feeling stressed or stuck in the daily grind? Sometimes, all it takes is a quick digital escape to refresh your mind. Whether you're craving the thrill of exploring new places, the calming sounds of nature, or a little playful creativity, the internet is packed with websites that offer just that. These virtual experiences might not replace a real vacation, but they’re perfect for taking a mental breather, sparking joy, and bringing a little adventure or calm to your day—all without leaving your home.
 

@@ -9,7 +9,7 @@ tags:
   - cuteDeskGadgets
   - aestheticGadget
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Sprucing up your desk doesn’t mean sacrificing functionality. These gadgets add charm to your workspace while helping you stay productive. Let’s dive into some unique finds!
 

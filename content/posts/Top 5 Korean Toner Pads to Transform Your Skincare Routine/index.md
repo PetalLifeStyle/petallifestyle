@@ -8,7 +8,7 @@ tags:
   - skincare
   - tonarPads
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Korean beauty products are known for their innovative formulas, and Korean toner pads are one of the best and most versatile gems for skincare enthusiasts. Whether you’re battling acne, dryness, or just looking for a little extra glow, there’s a toner pad out there for you. Here are the top five Korean toner pads that are creating waves in the skincare world, making them some of the best Korean skincare products to try.
@@ -21,7 +21,7 @@ These vegan fiber pads are enriched with collagen, ceramide, and milk protein to
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/619ri-ai4hL._SL1500_.jpg" alt="MEDIHEAL Collagen Ampoule Pad" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/619ri-ai4hL._SL1500_.jpg" alt="MEDIHEAL Collagen Ampoule Pad" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -35,7 +35,7 @@ Struggling with enlarged pores or greasy skin? These exfoliating and pore-refini
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71VRndufcxL._AC_SL1500_.jpg" alt="Medicube Zero Pore Pads 2.0" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71VRndufcxL._AC_SL1500_.jpg" alt="Medicube Zero Pore Pads 2.0" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -48,7 +48,7 @@ These double-sided pads offer a unique approach to skin calming. One side, made 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61cdjTVBUmL._AC_SL1500_.jpg" alt="Centella Re-Leaf Green Toner Pad" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61cdjTVBUmL._AC_SL1500_.jpg" alt="Centella Re-Leaf Green Toner Pad" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -61,7 +61,7 @@ Packed with the goodness of carrot seed oil and β-Carotene, these pads are an a
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71+-68ZsucL._AC_SL1500_.jpg" alt="SKINFOOD Carrot Carotene Calming Water Pad" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71+-68ZsucL._AC_SL1500_.jpg" alt="SKINFOOD Carrot Carotene Calming Water Pad" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -75,7 +75,7 @@ If your skin feels irritated or prone to breakouts, these tea tree and cica-infu
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61hthsj1MZL._AC_SL1500_.jpg" alt="BRING GREEN Tea Tree CICA Soothing Toner Pad" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61hthsj1MZL._AC_SL1500_.jpg" alt="BRING GREEN Tea Tree CICA Soothing Toner Pad" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>

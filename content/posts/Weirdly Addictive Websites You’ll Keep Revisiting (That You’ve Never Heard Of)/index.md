@@ -14,7 +14,7 @@ tags:
   - DigitalFidgetToys
   - CoolWebsitesWeirdFun
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Ever fall into an internet rabbit hole so deep, you forget to blink? You stumble upon a site so oddly satisfying, so pointlessly fun, that you just… can’t… stop. We all know the big names (cough, Reddit, cough), but today we’re spotlighting hidden gems with freakishly satisfying vibes. These aren’t just websites—they’re digital fidget spinners for your brain. Ready to lose track of time? Let’s dive in!

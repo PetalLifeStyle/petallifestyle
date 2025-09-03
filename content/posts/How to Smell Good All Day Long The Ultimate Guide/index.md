@@ -8,7 +8,7 @@ tags:
   - skincare
   - bodycare
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Let’s face it: we all want to smell fresh and fabulous from morning to night. Whether it’s for a date, a long workday, or just to feel good about yourself, staying fragrant is a confidence booster. Here’s how to master the art of smelling good all day long—the easy, fun way!

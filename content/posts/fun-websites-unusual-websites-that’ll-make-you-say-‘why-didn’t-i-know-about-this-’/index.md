@@ -8,7 +8,7 @@ tags:
   - FunWebsites
   - CoolWebsites
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 The internet is full of hidden gems. These quirky and fascinating websites are perfect for when you need a break or just want to explore something unique. Let’s dive into some of the coolest online discoveries you didn’t know you needed!
 

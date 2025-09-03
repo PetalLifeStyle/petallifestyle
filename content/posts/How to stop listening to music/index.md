@@ -16,7 +16,7 @@ tags:
   - Quran guidance
   - quite music in islam
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 # Introduction

@@ -8,7 +8,7 @@ tags:
   - eclecticBedroom
   - vitageStyleBedroom
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 So, you’re looking to craft a bedroom that speaks to your soul? Something that oozes personality, creativity, and that "I love how I live" vibe? You’ve come to the right place! An eclectic boho bedroom is the perfect mix of vintage charm, bohemian spirit, and just enough modern twists to make it feel fresh.
@@ -105,11 +105,6 @@ One of the hallmarks of boho style is layering—be it textiles, rugs, or even d
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Scb624f6494eb4a4b8658d97190f941efQ.jpg_220x220q75.jpg_.avif" alt="Vintage Kilim Jute Rug" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_opiAn9l" target="_blank">🔗Vintage Kilim Jute Rug</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S13eda853b1074b4d98feada4548396a0d.jpg_220x220q75.jpg_.avif" alt="HeMu Round Woven Rugs" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oFLht1H" target="_blank">🔗HeMu Round Woven Rugs</a></p>
   </div>
@@ -117,14 +112,6 @@ One of the hallmarks of boho style is layering—be it textiles, rugs, or even d
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S60352339f36f4810837e84f3fed6bbd1R.jpg_220x220q75.jpg_.avif" alt="Handwoven Wool Jute Runner" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oFcamsX" target="_blank">🔗Handwoven Wool Jute Runner</a></p>
-  </div>
-
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf55f1ff4faf24474a1633b5ea8b60cfcB.jpg_220x220q75.jpg_.avif" alt="Vintage Traditional Rug" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_onM3U0B" target="_blank">🔗Vintage Traditional Rug</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
@@ -159,17 +146,9 @@ You can look for vintage finds like a mid-century modern dresser paired with a v
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S0168b302af23458ea543caf2821403c0p.jpg_220x220q75.jpg_.avif" alt="Rattan 6 Drawer Dresser" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_okQeQIT" target="_blank">🔗Rattan 6 Drawer Dresser</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sdc17123f128e45b39995acc0a283de11w.jpg_220x220q75.jpg_.avif" alt="Vintage Style Stool Wood Dresser" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_omfctKP" target="_blank">🔗Vintage Style Stool Wood Dresser</a></p>
   </div>
-
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sb726c9a846874c55810e2981c62ab083u.jpg_220x220q75.jpg_.avif" alt="Rattan Chair" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
@@ -179,11 +158,6 @@ You can look for vintage finds like a mid-century modern dresser paired with a v
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S0689a29a68bc46d4b2565f7e7687b9dbU.jpg_220x220q75.jpg_.avif" alt="Woven Rattan Rocking Chair" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_onRZeVZ" target="_blank">🔗Woven Rattan Rocking Chair</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S89b94248190a4c55a77c79b924e4de40c.jpg_220x220q75.jpg_.avif" alt="Rocking Chairs" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oBui4Dp" target="_blank">🔗Rocking Chairs</a></p>
   </div>
 
 </div>

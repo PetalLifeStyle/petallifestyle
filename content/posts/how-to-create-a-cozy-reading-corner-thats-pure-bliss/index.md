@@ -8,7 +8,7 @@ tags:
   - readingCorner
   - homeDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 There’s something magical about curling up with a good book in a space designed just for you. Whether you’re a bookworm, a casual reader, or someone who’s just starting their reading journey, having a cozy reading corner can make all the difference. Let’s dive into some tips, tricks, and creative ideas to help you build your dream nook. (Spoiler: it’s easier than you think!)
@@ -85,11 +85,6 @@ Comfort is king when it comes to reading for hours. Think about:
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbeab7dfe49954f299e6d015412f297240.jpg_220x220q75.jpg_.avif" alt="Stripe Garden Patio Seat Cushion" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oDo9rjD" target="_blank">☀️ Stripe Garden Patio Cushion</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S0689a29a68bc46d4b2565f7e7687b9dbU.jpg_220x220q75.jpg_.avif" alt="Realife Woven Rattan Rocking Chair" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oCpl9t9" target="_blank">🪑 Woven Rattan Rocking Chair</a></p>
   </div>
@@ -113,11 +108,6 @@ Comfort is king when it comes to reading for hours. Think about:
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S20987160d36b4f2b854c7dbf774174f3i.jpg_220x220q75.jpg_.avif" alt="Lazy Sofa Sleepable" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_okxfSGR" target="_blank">🛏️ Lazy Sofa Sleepable</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S3921fc3122ba4a17899a4a643a13220eC.jpg_220x220q75.jpg_.avif" alt="Round Pouf Tatami Cushion Pillow" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_op8wGI3" target="_blank">🍵 Tatami Round Pouf</a></p>
   </div>
@@ -125,11 +115,6 @@ Comfort is king when it comes to reading for hours. Think about:
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S2d70062930e04d068e9311ac7047790dl.jpeg_220x220q75.jpeg_.avif" alt="Japanese-Style Nappa Leather Cushion" style="max-width: 100%; height: auto; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_o2bvDRt" target="_blank">🧺 Japanese-Style Nappa Leather Cushion</a></p>
-  </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf79be8b13b17432ea30e5204022a8c5db.jpg_220x220q75.jpg_.avif" alt="Lazy Sofa Rocking Chair" style="max-width: 100%; height: auto; margin: 0 auto;" />
@@ -181,10 +166,6 @@ Comfort is king when it comes to reading for hours. Think about:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S33d7936a116244e6a6e788825e9c552fp.jpg_220x220q75.jpg_.avif" alt="SANDYHA Nordic Ceramic Table Lamps" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_ompyiRz" target="_blank">🌾 SANDYHA Nordic Ceramic Table Lamps</a></p>
-  </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S386dc24eefef43ff8332e5dc9901310eH.jpg_220x220q75.jpg_.avif" alt="3D Folding Creative LED Night Light" style="max-width: 100%; height: auto;" />
@@ -227,11 +208,6 @@ Nothing says “cozy” like soft, inviting textures. Consider:
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S39c33dfe73de496e9b2d38302bdd934bb.jpg_220x220q75.jpg_.avif" alt="Luxury Faux Fur Blanket" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_omVWvv5" target="_blank">✨ Luxury Faux Fur Blanket</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S8cb40cb07fa744f182a0f0d447104e8aE.jpg_220x220q75.jpg_.avif" alt="Thick Fleece Sofa Blanket" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oD4B8v1" target="_blank"> Thick Fleece Sofa Blanket</a></p>
   </div>
 
 </div>
@@ -346,11 +322,6 @@ A good reading corner needs books, and how you display them can add charm:
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S9de494ea17e0456eae72f9b3a3d765d0J.jpg_220x220q75.jpg_.avif" alt="Rotating Mobile Bookcase" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_olowP9V" target="_blank">🔄 Rotating Mobile Bookcase</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sea059d1d94844c22b548c8b5be903515Z.jpg_220x220q75.jpg_.avif" alt="Open Bookcase" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_op7SEoP" target="_blank">📚 Open Bookcase</a></p>
   </div>
@@ -359,22 +330,13 @@ A good reading corner needs books, and how you display them can add charm:
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sa7539929253a4be0af0b37899bfa269dN.jpg_220x220q75.jpg_.avif" alt="Small Bookshelf Next To The Desk" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_omBTkth" target="_blank">📖 Small Bookshelf Next To The Desk</a></p>
   </div>
-
-</div>
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S4a047506e57b40f996aaf9272f8ba32eC.jpg_220x220q75.jpg_.avif" alt="Sturdy Desktop Storage Basket" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_okrySi3" target="_blank">🧺 Sturdy Desktop Storage Basket</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sc6a7092f0f02455f837fa001a9f8ffbfg.jpg_220x220q75.jpg_.avif" alt="Organizing Storage Baskets" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_onVeWcB" target="_blank">🧺 Organizing Storage Baskets</a></p>
-  </div>
 
 </div>
-
 
 ***Disclaimer: Some of the links in this post are affiliate links. If you make a purchase through these links, I may earn a small commission at no extra cost to you. Your support helps me continue to create content and share valuable resources with you!***
 

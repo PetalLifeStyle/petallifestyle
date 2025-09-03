@@ -8,7 +8,7 @@ tags:
   - skincare
   - sunscreens
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Finding the right sunscreen for your skin can make a huge difference in your skincare routine. Here’s a list of top-rated Korean sunscreens to help you protect your skin while keeping it healthy and glowing.

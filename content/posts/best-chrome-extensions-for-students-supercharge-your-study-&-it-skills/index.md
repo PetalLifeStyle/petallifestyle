@@ -9,7 +9,7 @@ tags:
   - chromeExtensions
   - bestChromeExtensions
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Are you a student trying to level up your studies and IT skills? Whether you're learning programming, researching for projects, or just trying to stay organized, the right Chrome extensions can make your life a whole lot easier. 🚀 In this guide, we’ll explore the best Chrome extensions for students that can boost your productivity, improve your focus, and help you learn smarter—not harder.
 

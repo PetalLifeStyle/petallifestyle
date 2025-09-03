@@ -8,7 +8,7 @@ tags:
   - skincare
   - bodyScrub
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Say goodbye to expensive spa treatments and hello to glowing skin with these easy-to-make DIY body scrubs! Using simple ingredients straight from your kitchen, you can whip up natural, budget-friendly scrubs that leave your skin smooth, soft, and radiant. Let’s get scrubbing! 🌟

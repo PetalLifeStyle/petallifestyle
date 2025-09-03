@@ -8,7 +8,7 @@ tags:
   - cuteCoreRoom
   - homeDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 If you’ve been scrolling through aesthetic Pinterest boards or swooning over dreamy TikTok setups, you’ve probably come across *Cutecore*. It’s not just a decor trend—it’s a whole vibe. Think cozy pastels, whimsical accents, and an overload of *adorable* details that feel straight out of a storybook. Whether you’re revamping your bedroom, sprucing up a study nook, or creating a cozy corner, here are the latest Cutecore room decor ideas to turn your space into a magical haven.
@@ -18,55 +18,46 @@ If you’ve been scrolling through aesthetic Pinterest boards or swooning over d
 Cutecore thrives on soft, soothing colors. Opt for pastel pinks, baby blues, lilacs, mint greens, and buttery yellows. Start with a neutral base for your walls, like cream or light beige, and add pops of pastels through decor pieces like pillows, curtains, or rugs.
 
 Pro Tip: Use gradient or ombré curtains for an extra dreamy touch—they’ll filter light beautifully and add an ethereal vibe to your room.
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S777b80b6fa19476294cca3e313250c94E.jpg_220x220q75.jpg_.avif" alt="Pink Cherry Blossoms Wall Stickers" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oEzZDr5" target="_blank">🌸 Pink Cherry Blossoms Wall Stickers</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Ha2adbb45ffe344689c85a583578fb26fk.jpg_220x220q75.jpg_.avif" alt="Pink Wood Panel Self Adhesive Wallpaper" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oDN1cAr" target="_blank">🌸 Pink Wood Panel Self Adhesive Wallpaper</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S97b4fb299dcd4fd3a2e60f070b1b3d67O.jpg_220x220q75.jpg_.avif" alt="Cream Style Wallpaper" style="max-width: 100%; height: auto;" />
+  <div style="flex: 1 1 200px; text-align: center; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S97b4fb299dcd4fd3a2e60f070b1b3d67O.jpg_220x220q75.jpg_.avif" 
+         alt="Cream Style Wallpaper" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_olhes9l" target="_blank">🪞 Cream Style Wallpaper</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S78100db5e2ac4d2cb18ffc7e43654489a.jpg_220x220q75.jpg_.avif" alt="Japanese Mint Green Curtains" style="max-width: 100%; height: auto;" />
+  <div style="flex: 1 1 200px; text-align: center; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S78100db5e2ac4d2cb18ffc7e43654489a.jpg_220x220q75.jpg_.avif" 
+         alt="Japanese Mint Green Curtains" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oFzreox" target="_blank">🍃 Japanese Mint Green Curtains</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/HTB1E7qoXUvrK1RjSspcq6zzSXXa9.jpg_220x220q75.jpg_.avif" alt="Blue Sky Blank Cloud" style="max-width: 100%; height: auto;" />
+  <div style="flex: 1 1 200px; text-align: center; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://ae-pic-a1.aliexpress-media.com/kf/HTB1E7qoXUvrK1RjSspcq6zzSXXa9.jpg_220x220q75.jpg_.avif" 
+         alt="Blue Sky Blank Cloud" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_omHfqlz" target="_blank">☁️ Blue Sky Blank Cloud</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/H268bf14e4f444931890c0cebade641629.jpg_220x220q75.jpg_.avif" alt="Solid Tulle Curtains" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_omtzu0b" target="_blank">🌫️ Solid Tulle Curtains</a></p>
-  </div>
+</div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S9851811fb3114af8880e74f0050240c4l.jpg_220x220q75.jpg_.avif" alt="Modern Gradient Tulle Curtain" style="max-width: 100%; height: auto;" />
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  
+  <div style="flex: 1 1 200px; text-align: center; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S9851811fb3114af8880e74f0050240c4l.jpg_220x220q75.jpg_.avif" 
+         alt="Modern Gradient Tulle Curtain" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oof8wll" target="_blank">🌈 Modern Gradient Tulle Curtain</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S425f440cb74345bd8ab66a5d6cc88c75w.jpg_220x220q75.jpg_.avif" alt="Modern Curtain Blue Stripe" style="max-width: 100%; height: auto;" />
+  <div style="flex: 1 1 200px; text-align: center; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S425f440cb74345bd8ab66a5d6cc88c75w.jpg_220x220q75.jpg_.avif" 
+         alt="Modern Curtain Blue Stripe" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oliTzyB" target="_blank">💙 Modern Curtain Blue Stripe</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf8cf8bc575f5496086f04f500a1cb9872.jpg_220x220q75.jpg_.avif" alt="French Voile Sheer Curtains" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_olvCBND" target="_blank">🇫🇷 French Voile Sheer Curtains</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd09d778f2b3e49e29ac774d5abade5e21.jpg_220x220q75.jpg_.avif" alt="Star Gradient Double Layer Tulle" style="max-width: 100%; height: auto;" />
+  <div style="flex: 1 1 200px; text-align: center; display:flex; flex-direction:column; align-items:center;">
+    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd09d778f2b3e49e29ac774d5abade5e21.jpg_220x220q75.jpg_.avif" 
+         alt="Star Gradient Double Layer Tulle" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oC3Exbd" target="_blank">⭐ Star Gradient Double Layer Tulle</a></p>
   </div>
 
@@ -87,38 +78,8 @@ Latest Trend Alert: Weighted plushie blankets are not only cute but also calmin
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sc54c49ff32a7488983bd41d86042f4f8g.jpg_220x220q75.jpg_.avif" alt="Printed Duvet Cover" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oCo0XAF" target="_blank">🎨 Printed Duvet Cover</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Saf9118a42f10482bbc4bda837c56813af.jpg_220x220q75.jpg_.avif" alt="Floral Duvet Cover" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oCRlioL" target="_blank">🌸 Floral Duvet Cover</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S7c1c20c2b0554bb7a5c6720cbbd63e4by.jpg_220x220q75.jpg_.avif" alt="Duvet Cover" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oB0nceR" target="_blank">🛏️ Duvet Cover</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sfb240e902ba44589a2f166fc623b84950.jpg_220x220q75.jpg_.avif" alt="Coquette Lace" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oC8YuuF" target="_blank">🌿 Coquette Lace</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sfb2cc8824c5847969274e1e18b7a2f59i.jpg_220x220q75.jpg_.avif" alt="Taffel Velvet Bedding Set" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_opo7T2L" target="_blank">💤 Taffel Velvet Bedding Set</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S7f2a972c54ac45f39d1bcd4eb79bb153P.jpg_220x220q75.jpg_.avif" alt="Tufted Boho Duvet Cover" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_olNz9Mr" target="_blank">✨ Tufted Boho Duvet Cover</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S0afb6a6c6c14473f8a413079155c7280P.jpg_220x220q75.jpg_.avif" alt="Blue Floral Ruffle Duvet Cover Set" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oFFq1WT" target="_blank">💙 Blue Floral Ruffle Duvet Cover Set</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
@@ -241,11 +202,6 @@ Latest Trend Alert: Try using dollhouse furniture as mini organizers for jewelr
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sc9d71a9a2123474597e51326063d268eo.jpg_220x220q75.jpg_.avif" alt="Cotton Rope Woven Storage Basket" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_omYUNo7" target="_blank">Cotton Rope Woven Storage Basket</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S93a990a34ed1471ca374327d59def151Y.jpg_220x220q75.jpg_.avif" alt="Simple Desktop Storage Baskets" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_ooRT1ZH" target="_blank">Simple Desktop Storage Baskets</a></p>
   </div>
@@ -261,11 +217,6 @@ Latest Trend Alert: Try using dollhouse furniture as mini organizers for jewelr
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S6b9ff580120b4f608c69e9d5d0dee4bc5.jpg_220x220q75.jpg_.avif" alt="Trolley Cosmetics" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_omovf0T" target="_blank">Trolley Cosmetics</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S00b90a2a97ff4472914297d38f5c7a76k.jpg_220x220q75.jpg_.avif" alt="Pastel Storage Basket" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oCA7inz" target="_blank">Pastel Storage Basket</a></p>
   </div>
@@ -274,12 +225,7 @@ Latest Trend Alert: Try using dollhouse furniture as mini organizers for jewelr
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbbf4c050461b4ee3b1b41f56abace02b2.jpg_220x220q75.jpg_.avif" alt="Acrylic Clear Display Case with Ring LED Lights" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oCwLbOn" target="_blank">Acrylic Clear Display Case with Ring LED Lights</a></p>
   </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sb49e43c7d3994ec88933c9a48269c5ab4.jpg_220x220q75.jpg_.avif" alt="Acrylic Clear Storage Organizer Box" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_opPoGFN" target="_blank">Acrylic Clear Storage Organizer Box</a></p>
-  </div>
-
+\
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf416ce4610bf4271a7e128875c217f49F.jpg_220x220q75.jpg_.avif" alt="Multi-functional Cute Pen Holder" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_opQWKoP" target="_blank">Multi-functional Cute Pen Holder</a></p>
@@ -290,10 +236,6 @@ Latest Trend Alert: Try using dollhouse furniture as mini organizers for jewelr
     <p><a href="https://s.click.aliexpress.com/e/_onZ0h4x" target="_blank">Heart Shaped Hollow Plastic Storage Basket</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sbc02e386e6f54e9b85e02ccfe6c8f63dO.jpg_220x220q75.jpg_.avif" alt="Container Colorful Storage Box" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oB1LYmF" target="_blank">Container Colorful Storage Box</a></p>
-  </div>
 
 </div>
 
@@ -333,11 +275,6 @@ Unusual Tip: Make a mood board or vision board using pastel-colored corkboards 
   </div>
   
   <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Hb4ba52b395794c21989b4aa89022d9bcy.jpg_220x220q75.jpg_.avif" alt="Nordic Cloud Rainbow" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_opfZSV1" target="_blank">Nordic Cloud Rainbow</a></p>
-  </div>
-  
-  <div style="flex: 1 1 180px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd855ace6c3bf496fa7ab929f083013ffD.jpg_220x220q75.jpg_.avif" alt="Boho Macrame Daisy Flower" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_oFTtZLp" target="_blank">Boho Macrame Daisy Flower</a></p>
   </div>
@@ -355,12 +292,6 @@ Unusual Tip: Make a mood board or vision board using pastel-colored corkboards 
   <div style="flex: 1 1 180px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sad4a79260c85451eb6d97d017ea80207N.jpg_220x220q75.jpg_.avif" alt="Wooden Board" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_okBqhCb" target="_blank">Wooden Board</a></p>
-  </div>
-
-  <!-- Cork & Felt Boards -->
-  <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S42352c430a044adbb0a065e6ab4bec5cb.jpg_220x220q75.jpg_.avif" alt="Safe Removable Cork Board" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_onIcicr" target="_blank">Safe Removable Cork Board</a></p>
   </div>
   
   <div style="flex: 1 1 180px; text-align: center;">
@@ -380,11 +311,6 @@ Unusual Tip: Make a mood board or vision board using pastel-colored corkboards 
   </div>
   
   <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S243c151abf8240aa93700c6f77c21108C.jpg_220x220q75.jpg_.avif" alt="Thumbtack Pins Flower Shape" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_oCgdQwx" target="_blank">Thumbtack Pins Flower Shape</a></p>
-  </div>
-  
-  <div style="flex: 1 1 180px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S21145ff933b5446b93f4799dab7d77bbZ.jpg_220x220q75.jpg_.avif" alt="30*40cm Whiteboard Cork Board" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_okF0Gd1" target="_blank">30*40cm Whiteboard Cork Board</a></p>
   </div>
@@ -392,21 +318,6 @@ Unusual Tip: Make a mood board or vision board using pastel-colored corkboards 
   <div style="flex: 1 1 180px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/H88c507674a4c4e769839d6cc7bc13b42O.jpg_220x220q75.jpg_.avif" alt="Creative Cartoon" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_ooS9eNh" target="_blank">Creative Cartoon</a></p>
-  </div>
-  
-   <div style="flex: 1 1 160px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S6ac33cdfe3a74b28a324eaf8d7fb724ev.jpg_220x220q75.jpg_.avif" alt="Flower Push Pins" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_olTAI2j" target="_blank">Flower Push Pins</a></p>
-  </div>
-
-  <div style="flex: 1 1 160px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S1f5e270981e14a61b7288f4ab54c7d8aB.jpg_220x220q75.jpg_.avif" alt="Iced Coffee Enamel Pin" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oFDsKWx" target="_blank">Iced Coffee Enamel Pin</a></p>
-  </div>
-
-  <div style="flex: 1 1 160px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/HTB1YDihXZrrK1RjSspaq6AREXXa0.jpg_220x220q75.jpg_.avif" alt="TUTU Transparent Color Thumbtack" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_omki4r5" target="_blank">TUTU Transparent Color Thumbtack</a></p>
   </div>
 
 </div>
@@ -435,35 +346,18 @@ Unusual Tip: Layer two rugs with different textures—like a faux fur rug over 
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S1d0fa241667c4bfa9b00f7b89a953d54d.jpg_220x220q75.jpg_.avif" alt="Heart Shaped Area Rug" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_oC87Sa7" target="_blank">Heart Shaped Area Rug</a></p>
   </div>
-
-  <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S28e997360b2042e5ac22251bf000be60B.jpg_220x220q75.jpg_.avif" alt="Scandinavian Style Carpet" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_oDcDmkR" target="_blank">Scandinavian Style Carpet</a></p>
-  </div>
-
   <div style="flex: 1 1 180px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Saaa8e84b5fd24ada945dd71cee9999010.jpg_220x220q75.jpg_.avif" alt="Round Cute Bow Tie Plush Carpet" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_omzy5Qn" target="_blank">Round Cute Bow Tie Plush Carpet</a></p>
   </div>
 
-  <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S24511adea62540038b9bae3c2b2a4829j.jpg_220x220q75.jpg_.avif" alt="Nordic Style Carpets" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_okvE8Ab" target="_blank">Nordic Style Carpets</a></p>
-  </div>
+</div>
 
+<div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  
   <div style="flex: 1 1 180px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S7abb4ab64e8f4135bd17cd703464433af.jpg_220x220q75.jpg_.avif" alt="Soft Fluffy Bedside Carpet" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_oCWlQe3" target="_blank">Soft Fluffy Bedside Carpet</a></p>
-  </div>
-
-  <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sefae9f6e37e64f3b8b83388addac11a7B.jpg_220x220q75.jpg_.avif" alt="Cat Paw Plush Carpet" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_olFPRv5" target="_blank">Cat Paw Plush Carpet</a></p>
-  </div>
-
-  <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S06160bc3d3db4c91a007fe327a0d4126F.jpg_220x220q75.jpg_.avif" alt="Tufting Heart Bedroom Rug" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_oCUwAkR" target="_blank">Tufting Heart Bedroom Rug</a></p>
   </div>
 
   <div style="flex: 1 1 180px; text-align: center;">
@@ -489,11 +383,6 @@ Pro Tip: Try terrariums with fairy lights for a magical garden vibe that feels 
 <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
 
   <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S8515ca6dad984011bde4f07d01d5d7f7E.jpg_220x220q75.jpg_.avif" alt="Blue Artificial Succulents Plants" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_oFgkmW3" target="_blank">Blue Artificial Succulents Plants</a></p>
-  </div>
-
-  <div style="flex: 1 1 180px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/H8a6b11bcb3cf4a54a03075be000ce2eeQ.jpg_220x220q75.jpg_.avif" alt="Hanging Flower Pots" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_oFPBFGT" target="_blank">Hanging Flower Pots</a></p>
   </div>
@@ -501,11 +390,6 @@ Pro Tip: Try terrariums with fairy lights for a magical garden vibe that feels 
   <div style="flex: 1 1 180px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S4e8c0ac9edc446be84d1b10e4cff2d8bg.jpg_220x220q75.jpg_.avif" alt="Vertical Pattern Rose Desktop Pot" style="max-width: 100%; height: auto;"/>
     <p><a href="https://s.click.aliexpress.com/e/_oFZJRc3" target="_blank">Vertical Pattern RoseDesktop Pot</a></p>
-  </div>
-
-  <div style="flex: 1 1 180px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S34d136fba0f741d48e76c4ce7dbe2228G.jpg_220x220q75.jpg_.avif" alt="Provence Lavender" style="max-width: 100%; height: auto;"/>
-    <p><a href="https://s.click.aliexpress.com/e/_okIj25v" target="_blank">Provence Lavender</a></p>
   </div>
 
   <div style="flex: 1 1 180px; text-align: center;">
@@ -576,11 +460,6 @@ Create a dedicated space for your favorite activities—whether it’s a [***re
   <div style="flex: 1 1 160px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sf2d7d4313ddc490b9904e5b426044cb9n.jpg_220x220q75.jpg_.avif" alt="Wrist Rest Pad" style="max-width: 100%; height: auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oBu8Dzv" target="_blank">Wrist Rest Pad</a></p>
-  </div>
-
-  <div style="flex: 1 1 160px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S960454ed3e7b4290ae83c9123a3de63fr.jpg_220x220q75.jpg_.avif" alt="Super Soft Strawberry Pillow" style="max-width: 100%; height: auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_olMDioX" target="_blank">Super Soft Strawberry Pillow</a></p>
   </div>
 
   <div style="flex: 1 1 160px; text-align: center;">

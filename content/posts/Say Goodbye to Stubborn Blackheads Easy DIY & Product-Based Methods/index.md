@@ -8,7 +8,7 @@ tags:
   - skincare
   - clearpores
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Blackheads. Ugh! Those pesky little dots that seem impossible to get rid of. But don’t worry, I’ve got you covered! In this blog, I’ll share two tried-and-true methods to tackle blackheads – a DIY trick that’s super simple and a product-based routine for those who love a bit of skincare pampering. Let’s dive in!
@@ -17,38 +17,37 @@ Blackheads. Ugh! Those pesky little dots that seem impossible to get rid of. But
 
 ## What You’ll Need:
 
-- Vaseline
-- Plastic wrap
-- A cloth soaked in warm water
-- A bobby pin or hairpin
+- Bentonite clay
+- Raw honey
+- A few drops of tea tree oil (optional)
+- A small bowl and spoon
 
 ## Steps:
 
-- **Prep Your Skin:** Tie your hair back to keep it out of the way. Clean your face with a gentle cleanser to remove any dirt or makeup.
-- **Apply Vaseline:** Generously apply Vaseline to your nose and chin – these are the hotspots for blackheads.
-- **Cover with Plastic Wrap:** Place a piece of plastic wrap over the Vaseline-covered areas.
-- **Warm It Up:** Soak a clean cloth in warm water (not too hot!), wring out the excess, and gently press it over the plastic wrap. Do that for about 5 minutes. The warmth helps to soften the blackheads, making them easier to remove.
-- **Remove the Plastic Wrap:** Take off the plastic wrap.
-- **Extract with a Hairpin:** Use the rounded end of a clean hairpin to gently press around the blackheads. Be gentle to avoid hurting your skin! Once done, clean the area afterwards.
+- **Prep Your Skin:** Tie your hair back and cleanse your face with a gentle Korean cleanser, like Etude House Soon Jung 6.5 Whip Cleanser, to remove dirt and makeup.
+- **Mix the Mask:** In a small bowl, combine 1 tsp bentonite clay with 1 tsp honey. Add 1–2 drops of tea tree oil if your skin is acne-prone.
+- **Apply the Mask:** Spread a thin layer over blackhead-prone areas (nose, chin, forehead).
+- **Let It Sit:** Leave the mask on for 10–15 minutes until partially dry. It will gently pull out impurities without over-drying your skin.
+- **Rinse Off:** Wash your face with lukewarm water and pat dry.
+- **Moisturize:** Finish with a soothing gel to calm the skin. Korean favorite IsNtree Aloe Soothing Gel works perfectly!
 
-### Pro Tip:
-
-Finish with a soothing gel like aloe vera or snail mucin to calm your skin. Korean favorite IsNtree Aloe Soothing Gel is perfect for this!
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51+HLt9FiZL._SL1080_.jpg" alt="Aloe soothing gel" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51SPDgDz5KL._SL1500_.jpg" alt="Snail mucin" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51+HLt9FiZL._SL1080_.jpg" alt="Aloe soothing gel" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
 
-### Precaution:
+### Precautions:
 
-Don't forget to check if Vaseline suits your skin or not otherwise it may result in clogged pores or even pimples.
+- Always patch-test ingredients like bentonite clay, honey, or tea tree oil on a small area before applying to your face.  
+- Avoid using this mask on broken, irritated, or inflamed skin.  
+- Do not leave the mask on for longer than 15 minutes to prevent dryness or irritation.  
+- Be gentle when removing blackheads—never force extraction with fingers or pins to avoid scarring or infection.  
+- Follow up with a soothing moisturizer or gel, like IsNtree Aloe Soothing Gel, to calm the skin.  
+- Limit use to 1–2 times per week; overuse can compromise your skin barrier.  
+
 
 ---
 
@@ -93,20 +92,15 @@ Follow up with a gentle foam cleanser to remove any leftover residue.
 ## My Pick:
 
 - ANUA Heartleaf Quercetinol Pore Deep Cleansing Foam
-- COSRX Low pH Good Morning Gel Face Cleanser
 - ETUDE SoonJung pH 6.5 Whip Facial Cleanser
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51Kpw2r-pIL._SL1000_.jpg" alt="ANUA Heartleaf Quercetinol Pore Deep Cleansing Foam" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61UcS1QVdFS._SL1500_.jpg" alt="COSRX Low pH Good Morning Gel Face Cleanser" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51Kpw2r-pIL._SL1000_.jpg" alt="ANUA Heartleaf Quercetinol Pore Deep Cleansing Foam" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
    <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/41EPhJgSopL._SL1000_.jpg" alt="ETUDE SoonJung pH 6.5 Whip Facial Cleanser" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/41EPhJgSopL._SL1000_.jpg" alt="ETUDE SoonJung pH 6.5 Whip Facial Cleanser" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -123,11 +117,11 @@ This is where the magic happens! Apply a generous layer of a pore clay mask, lik
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71OAKiRewkL._SL1500_.jpg" alt="Innisfree Super Volcanic Pore Clay Mask" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71OAKiRewkL._SL1500_.jpg" alt="Innisfree Super Volcanic Pore Clay Mask" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/8103nN4hZLL._SL1500_.jpg" alt="Beauty of Joseon Red Bean Pore Refreshing Mask Mud Cream" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/8103nN4hZLL._SL1500_.jpg" alt="Beauty of Joseon Red Bean Pore Refreshing Mask Mud Cream" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -139,11 +133,11 @@ After cleansing, use toner pads to calm and hydrate your skin. NEOGEN Dermalogy
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61JyY3s19AL._SL1000_.jpg" alt="Neogen" style="max-width: 90%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61JyY3s19AL._SL1000_.jpg" alt="Neogen" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61hthsj1MZL._AC_SL1500_.jpg" alt="Bringgreen" style="max-width: 75%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61hthsj1MZL._AC_SL1500_.jpg" alt="Bringgreen" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -157,21 +151,17 @@ Do this routine once a week to avoid over-exfoliation and keep your skin balance
 
 ## Additional Tips to Keep Blackheads at Bay
 
-- **Exfoliate Weekly:** Use a mild exfoliator to remove dead skin cells and prevent pore clogging. The COSRX BHA Blackhead Power Liquid is a cult favorite.
+- **Exfoliate Weekly:** Use a mild exfoliator to remove dead skin cells and prevent pore clogging.
 - **Stay Hydrated:** Hydration is key to healthy skin! Don’t skip your moisturizer, even if you have oily skin. Etude House SoonJung Hydro Barrier Cream is lightweight and perfect for all skin types.
 - **Avoid Touching Your Face:** Constantly touching your face can transfer bacteria and oils, making blackheads worse.
 - **Use Sunscreen Daily:** Protect your skin from sun damage and prevent pores from enlarging. You can go for Beauty of Joseon Daily Relief Sunscreen. If you want to find out the perfect sunscreen based on your skin type check out **[*The Best Korean Sunscreens Based On Skin Type .*](https://www.notion.so/The-Best-Korean-Sunscreens-Based-On-Skin-Type-2030dff09b948011935fcb5c4a537157?pvs=21)**
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61YxQHrEIcL._SL1500_.jpg" alt="Cosrx BHA" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51P82rfvMeL._SL1000_.jpg" alt="SoonJung" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51P82rfvMeL._SL1000_.jpg" alt="SoonJung" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61-OzCeI4mL._SL1500_.jpg" alt="Beauty of Josoen sunscreen" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61-OzCeI4mL._SL1500_.jpg" alt="Beauty of Josoen sunscreen" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 

@@ -8,7 +8,7 @@ tags:
   - skincare
   - viralSkincare
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 The Korean skincare routine has taken the beauty world by storm, promising radiant, glass-like skin. But with so many steps and products, it’s easy to feel overwhelmed. The good news? You don’t need every single product in existence to achieve glowing skin. Here’s a breakdown of the essential 7-step routine, simplified and explained for your everyday use.
@@ -20,9 +20,9 @@ The Korean skincare routine has taken the beauty world by storm, promising radia
 The double cleanse is non-negotiable if you want fresh, clear skin. Why two cleansers? Each one serves a specific purpose:
 
 - **Oil-Based Cleanser:** Removes makeup, sunscreen, and excess sebum without stripping your skin.
-    - ◦ **Best Picks**: [Banila Co Clean It Zero Cleansing Balm](https://www.banilaco.com/),[The Face Shop Rice Water Bright Cleansing Oil](https://www.thefaceshop.com/).
+    - ◦ **Best Picks**: Banila Co Clean It Zero Cleansing Balm, The Face Shop Rice Water Bright Cleansing Oil.
 - **Water-Based Cleanser:** Washes away sweat, dirt, and leftover residue from the oil cleanser.
-    - ◦ **Best Picks**: [COSRX Low pH Good Morning Gel Cleanser](https://www.cosrx.com/), Etude House SoonJung pH 6.5 Whip Cleanser.
+    - ◦ **Best Picks**: Etude House SoonJung pH 6.5 Whip Cleanser.
 
 ---
 
@@ -31,9 +31,9 @@ The double cleanse is non-negotiable if you want fresh, clear skin. Why two clea
 Exfoliation is key to removing dead skin cells and unclogging pores, but it’s best to limit it to 1-2 times a week.
 
 - **Physical Exfoliants:** Scrubs with fine granules (gentler options are best).
-    - ◦ **Best Picks**: [Skinfood Black Sugar Mask Wash Off](https://www.skinfood.com/).
+    - ◦ **Best Picks**: Skinfood Black Sugar Mask Wash Off
 - **Chemical Exfoliants:** AHAs, BHAs, or PHAs for a smoother texture and clearer complexion.
-    - ◦ **Best Picks**: [COSRX BHA Blackhead Power Liquid](https://www.cosrx.com/).
+    - ◦ **Best Picks**: Some By Mi AHA BHA PHA 30 Days Miracle Toner
 
 ***Why it’s important*:** Exfoliation preps your skin to absorb the next steps better.
 
@@ -44,7 +44,7 @@ Exfoliation is key to removing dead skin cells and unclogging pores, but it’s 
 Toners in the Korean routine are all about replenishing your skin, not stripping it dry. Skip the alcohol-heavy toners and opt for hydrating ones.
 
 - Look for toners with ingredients like hyaluronic acid, green tea, or centella asiatica for a soothing boost.
-    - ◦ **Best Picks**: [Etude House SoonJung pH 5.5 Relief Toner](https://www.etudehouse.com/), [Klairs Supple Preparation Unscented Toner](https://www.klairscosmetics.com/), iUNIK Tea Tree Relief Toner.
+    - ◦ **Best Picks**: Etude House SoonJung pH 5.5 Relief Toner, Klairs Supple Preparation Unscented Toner, iUNIK Tea Tree Relief Toner.
 - Apply using your hands and pat it into your skin for maximum absorption.
 
 ---
@@ -54,7 +54,7 @@ Toners in the Korean routine are all about replenishing your skin, not stripping
 An essence is like a concentrated toner or a lightweight serum that hydrates and helps your skin absorb other products.
 
 - Look for ingredients like snail mucin, fermented extracts, or niacinamide for glowing, even-toned skin.
-    - ◦ **Best Picks**: [COSRX Advanced Snail 96 Mucin Power Essence](https://www.cosrx.com/), [Missha Time Revolution First Treatment Essence](https://www.missha.com/).
+    - ◦ **Best Picks**: Missha Time Revolution First Treatment Essence.
 - Pat gently all over your face after toner.
 
 ***Why it matters*:** It enhances hydration and targets specific concerns like dullness or fine lines.
@@ -66,11 +66,11 @@ An essence is like a concentrated toner or a lightweight serum that hydrates and
 This step is where you tackle your specific skin concerns:
 
 - **Acne:** Try tea tree oil or salicylic acid.
-    - ◦ ***Best Picks*: [Some By Mi AHA-BHA-PHA 30 Days Miracle Serum](https://www.somebymi.com/).**
+    - ◦ **Best Picks**: Some By Mi AHA-BHA-PHA 30 Days Miracle Serum
 - **Hyperpigmentation:** Vitamin C or arbutin.
-    - ◦ ***Best Picks*: [Dear, Klairs Freshly Juiced Vitamin C Serum](https://www.klairscosmetics.com/).**
+    - ◦ **Best Picks**: Dear, Klairs Freshly Juiced Vitamin C Serum
 - **Hydration:** Hyaluronic acid or peptides.
-    - ◦ ***Best Picks*: COSRX Hydrium Triple Hyaluronic Moisture Ampoule.**
+    - ◦ **Best Picks**: Etude House Soon Jung 5-Panthensoside Cica Ampoule
 
 Layer serums based on their consistency—thinnest to thickest—and wait a minute or two between applications.
 
@@ -81,11 +81,11 @@ Layer serums based on their consistency—thinnest to thickest—and wait a minu
 Your moisturizer locks in all the goodness from the previous steps. Choose one based on your skin type:
 
 - **Dry Skin:** Go for rich, creamy formulas.
-    - ◦ ***Best Picks***: [Belif The True Cream Moisturizing Bomb](https://www.belifcosmetic.com/).
+    - **Best Picks**: Belif The True Cream Moisturizing Bomb
 - **Oily Skin:** Lightweight, gel-based moisturizers work best.
-    - ◦ ***Best Picks*: NACIFIC Pink AHA BHA Facial Cream.**
+    -  **Best Picks**: NACIFIC Pink AHA BHA Facial Cream.
 - **Combination Skin:** A balancing moisturizer is your go-to.
-    - ◦ ***Best Picks***: [COSRX Oil-Free Ultra-Moisturizing Lotion](https://www.cosrx.com/).
+    -  **Best Picks**: Etude House Soon Jung 2x Barrier Intensive Cream
 
 ---
 
@@ -94,7 +94,7 @@ Your moisturizer locks in all the goodness from the previous steps. Choose one b
 If there’s one step you *must* never skip, it’s sunscreen. Korean sunscreens are known for their lightweight, non-greasy formulas that double as a makeup primer.
 
 - Use SPF 30 or higher, and reapply every 2-3 hours if you’re out and about.
-    - ◦ ***Best Picks*: [Beauty of Joseon Relief Sun Rice + Probiotics SPF 50+](https://www.beautyofjoseon.com/), [Etude House Sunprise Mild Airy Finish SPF50+](https://www.etudehouse.com/).**
+    - ◦ **Best Picks**: Beauty of Joseon Relief Sun Rice + Probiotics SPF 50+, Etude House Sunprise Mild Airy Finish SPF50+.
 
 *Why it’s crucial*: Sunscreen protects your skin from UV damage, preventing premature aging, dark spots, and even skin cancer.
 

@@ -8,7 +8,7 @@ tags:
   - adorableGadgets
   - stressRelief
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Studying can sometimes feel like climbing a mountain—mentally exhausting and downright stressful. But what if your study breaks could become mini moments of joy? Enter: Adorable gadgets designed to melt your stress away while keeping you motivated and recharged! These tiny treasures not only make your breaks more fun but also add a touch of cuteness to your desk. Let’s dive into some stress-relief gadgets you’ll absolutely love.
 

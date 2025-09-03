@@ -8,7 +8,7 @@ tags:
   - healthyDrinks
   - healthyLife
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Are you feeling sluggish or bloated? It’s time to give your body a fresh start with some easy-to-make detox drinks! These delicious drinks not only taste great but also help cleanse your system, boost your energy, and leave you feeling amazing. Ready to jumpstart your wellness routine? Let’s dive into these simple yet effective detox drinks you can whip up at home!

@@ -8,7 +8,7 @@ tags:
   - learnKoreanWithMe
   - koreanLanguage
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Hey language lovers 👋
 

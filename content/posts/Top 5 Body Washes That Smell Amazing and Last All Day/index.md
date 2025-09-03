@@ -8,7 +8,7 @@ tags:
   - skincare
   - bodyWash
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Who doesn’t love stepping out of the shower smelling fresh and fabulous? The right body wash can make you feel confident and ready to take on the day. If you're looking for body washes with scents that linger long after your shower, you’re in the right place! Here are five of the best body washes that smell divine and keep you smelling great all day.
@@ -25,7 +25,7 @@ This Korean beauty favorite is a must-try. It’s infused with a delightful flor
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51ZZ8d9UYyL.jpg" alt="Happy Bath Fresh Rose Perfumed Body Wash" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51ZZ8d9UYyL.jpg" alt="Happy Bath Fresh Rose Perfumed Body Wash" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -33,19 +33,19 @@ This Korean beauty favorite is a must-try. It’s infused with a delightful flor
 
 ---
 
-# 2. **Aesop A Rose by Any Other Name Body Wash**
+# 2. **Shiro Savon Body Soap**
 
-Luxuriously crafted with rose petal oil and botanical extracts, this body wash offers a sophisticated scent profile that’s both floral and spicy. It gently cleanses while leaving your skin feeling fresh and warmed. A perfect pick for a spa-like shower experience.
+Infused with Shiro’s signature “Savon” fragrance, this body wash blends fresh soap, fruity notes, and light florals for a clean yet elegant scent that lingers all day. Its gentle formula cleanses without stripping, leaving your skin soft and refreshed—like stepping out of a spa.
 
 **Why You’ll Love It:**
 
-- Elegant floral and spicy aroma.
-- Vegan and cruelty-free.
-- Leaves skin feeling soft and revitalized.
+- Refreshing floral–fruity fragrance that lasts.
+- Gentle, skin-friendly Japanese formula.
+- Leaves skin feeling smooth and hydrated.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/81rp8RksF1L._SL1500_.jpg" alt="Aesop A Rose by Any Other Name Body Wash" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://shiro-shiro.us/cdn/shop/products/12717_700x_6a88e4f3-4e6f-4c46-9024-efc4e6c0de34_800x.jpg?v=1697443403" alt="Shiro Savon Body Soap" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -65,7 +65,7 @@ Bring the beach to your shower with this indulgent body wash. It’s infused wit
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71p3C5C8cXL._SL1500_.jpg" alt="Sol de Janeiro Brazilian 4 Play Moisturizing Shower Cream-Gel" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71p3C5C8cXL._SL1500_.jpg" alt="Sol de Janeiro Brazilian 4 Play Moisturizing Shower Cream-Gel" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -85,26 +85,28 @@ This body wash is as refreshing as it gets. With a clean, spa-like eucalyptus sc
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51UPYdO10lL._SL1500_.jpg" alt="Nécessaire The Body Wash" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51UPYdO10lL._SL1500_.jpg" alt="Nécessaire The Body Wash" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
 
 ---
 
-# 5. **Caress Daily Silk Body Wash**
+# 5. **Innisfree My Body Cherry Blossom Body Cleanser**
 
-Looking for something budget-friendly but luxurious? Caress Daily Silk Body Wash has a soft, floral scent with notes of white peach and orange blossom. It’s feminine, light, and perfect for everyday use. Your skin will feel silky smooth, too.
+Looking for something budget-friendly but still luxurious? This body wash has a soft, floral scent with delicate cherry blossom notes that feel feminine, light, and refreshing. It lathers gently and leaves your skin silky smooth after every shower.
 
 **Why You’ll Love It:**
 
-- Affordable luxury.
-- Delicate and elegant fragrance.
+- Affordable luxury from K-beauty.
+
+- Fresh, floral fragrance.
+
 - Leaves skin soft and touchable.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/81cecGdqryL._SL1500_.jpg" alt="Caress Daily Silk Body Wash" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnk1YcSL8fXJgPlkIOdnJWwTBgUCgZ0ZYLexHfme0WVDDRQecpYVnXsIsmffunUnwW9y8&usqp=CAU" alt="Innisfree My Body Cherry Blossom Body Cleanser" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>

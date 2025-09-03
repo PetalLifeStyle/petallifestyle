@@ -10,7 +10,7 @@ tags:
   - aestheticGadget
   - schoolSupplies
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Why settle for ordinary school supplies when you can have tools that do *so much more*? These innovative 3-in-1 school supplies are here to simplify your life, save space, and make studying a whole lot cooler. Whether you're a student, a teacher, or someone who loves clever gadgets, these are the must-haves you didn’t know you needed!
 
@@ -22,6 +22,27 @@ This handy tool combines sticky notes, colorful tabs, and a built-in ruler in on
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://m.media-amazon.com/images/I/61C0YB23MSL._AC_SL1000_.jpg" alt="3-in-1 Sticky Note Pads with Tabs and Ruler" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
+
+</div>
+
+<div align="center">
+
+<a href="https://petallifestyle.gumroad.com/l/pasteltodolist?layout=profile" 
+   style="background-color:#FADADD; 
+          color:#333; 
+          padding:14px 28px; 
+          text-decoration:none; 
+          border-radius:12px; 
+          font-weight:600; 
+          font-size:16px; 
+          font-family:sans-serif; 
+          box-shadow:0px 4px 8px rgba(0,0,0,0.15); 
+          display:inline-block;
+          transition: all 0.3s ease;"
+   onmouseover="this.style.backgroundColor='#f7c6d4'; this.style.textDecoration='underline'; this.style.boxShadow='0px 6px 12px rgba(0,0,0,0.2)';"
+   onmouseout="this.style.backgroundColor='#FADADD'; this.style.textDecoration='none'; this.style.boxShadow='0px 4px 8px rgba(0,0,0,0.15)';">
+📓 Check Out Free Printable Planner Here 📓
+</a>
 
 </div>
 

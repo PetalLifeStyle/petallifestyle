@@ -101,6 +101,10 @@ weight = 32
   pageRef = "categories/islamic-corner"
   weight = 35
 
+[[main]]
+  name = "My Shop"
+  url = "https://petallifestyle.gumroad.com/"
+  weight = 40
 
 #[[main]]
 #  name = "Parent"

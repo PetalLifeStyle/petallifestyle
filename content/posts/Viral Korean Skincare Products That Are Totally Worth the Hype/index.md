@@ -8,7 +8,7 @@ tags:
   - skincare
   - viralSkincare
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 If you’re a skincare lover, you’ve probably noticed the buzz around Korean beauty (aka K-beauty) products. From achieving glass skin to simplifying your routine with multi-tasking wonders, these products have taken the beauty world by storm. But which viral gems actually live up to the hype? Let’s dive into the must-haves that deserve a spot on your shelf! 🌟
@@ -29,17 +29,17 @@ Now that you’re sold on K-beauty, let’s explore the products creating waves 
 
 # Viral Korean Skincare Products to Add to Your Routine
 
-# 1. COSRX Advanced Snail 96 Mucin Power Essence
+# 1. Beauty of Joseon Revive Serum (Ginseng + Snail Mucin)
 
-**Why It’s Viral:** Snail mucin might sound odd, but it’s a game-changer for hydration and skin repair. This essence is lightweight, absorbs quickly, and leaves your skin plump and glowing**.**
+**Why It’s Viral:** A modern twist on traditional Korean herbal skincare, this serum combines ginseng extract with snail mucin for deep nourishment and skin repair. It boosts elasticity, hydrates, and gives that healthy, glass-skin glow.
 
-**Best For:** Dry or damaged skin, and anyone looking for that dewy finish.
+**Best For:** Dull, tired, or aging skin that needs firming and revitalization.
 
-**How to Use:** Apply after cleansing and toning. Gently pat into your skin until absorbed.
+**How to Use:** Apply after cleansing and toning. Press a few drops into your skin and follow up with moisturizer.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/513PbxOIk0L._SL1000_.jpg" alt="COSRX Advanced Snail 96 Mucin Power Essence" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://beautyofjoseon.com/cdn/shop/files/35.jpg?v=1754260309&width=3000" alt="Beauty of Joseon Revive Serum (Ginseng + Snail Mucin)" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -56,7 +56,7 @@ Now that you’re sold on K-beauty, let’s explore the products creating waves 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71y8fD55Z5L._SL1500_.jpg" alt=" Laneige Lip Sleeping Mask" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71y8fD55Z5L._SL1500_.jpg" alt=" Laneige Lip Sleeping Mask" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -73,7 +73,7 @@ Now that you’re sold on K-beauty, let’s explore the products creating waves 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51x7NLHA9IL._SL1500_.jpg" alt="Glow Recipe Watermelon Glow Niacinamide Dew Drops" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51x7NLHA9IL._SL1500_.jpg" alt="Glow Recipe Watermelon Glow Niacinamide Dew Drops" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -90,25 +90,25 @@ Now that you’re sold on K-beauty, let’s explore the products creating waves 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/615XCiKOJ6L._SL1500_.jpg" alt="Innisfree Green Tea Seed Serum" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/615XCiKOJ6L._SL1500_.jpg" alt="Innisfree Green Tea Seed Serum" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
 
 ---
 
-# 5. Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment
+# 5. Etude House Soon Jung Cica Balm
 
-**Why It’s Viral:** This cream neutralizes redness, protects your skin barrier, and even contains SPF. It’s a holy grail for sensitive skin days.
+**Why It’s Viral:** Formulated with panthenol and madecassoside (from centella), this soothing balm calms irritation, strengthens the skin barrier, and delivers lasting hydration without heaviness.
 
-**Best For:** Redness-prone or sensitive skin.
+**Best For**: Sensitive, easily irritated, or redness-prone skin.
 
-**How to Use:** Apply a thin layer to red areas as the final step of your skincare routine.
+**How to Use:** Apply a thin layer to affected areas as the final step of your skincare routine, or use it all over as a calming moisturizer.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71iLblxkx5L._SL1500_.jpg" alt="Dr. Jart+ Cicapair Tiger Grass Color Correcting Treatment
-" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://sokoglam.com/cdn/shop/files/SokoGlamPDP_Revamped_Etude_SoonJung5-PanthensosideCicaBalm50ml-05.png?v=1754670148&width=990" alt="Etude House Soon Jung Cica Balm"
+" style="max-width: 30%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -125,7 +125,7 @@ Now that you’re sold on K-beauty, let’s explore the products creating waves 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61-OzCeI4mL._SL1500_.jpg" alt=" Beauty of Joseon Relief Sun Rice + Probiotics SPF 50" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61-OzCeI4mL._SL1500_.jpg" alt=" Beauty of Joseon Relief Sun Rice + Probiotics SPF 50" style="max-width: 30%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>

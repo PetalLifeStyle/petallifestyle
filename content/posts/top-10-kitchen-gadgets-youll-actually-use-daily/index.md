@@ -8,7 +8,7 @@ tags:
   - kitchenEssentials
   - homeDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Your kitchen is the heart of your home, so why not make it more efficient, fun, and easy to navigate? With the right gadgets, you can save time, simplify cooking, and even make meal prep more exciting. Whether you're a seasoned chef or just starting to explore the world of cooking, these 10 kitchen gadgets are must-haves that you'll find yourself reaching for every day. Let’s dive in!

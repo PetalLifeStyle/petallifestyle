@@ -8,7 +8,7 @@ tags:
   - homeOfficeDecor
   - homeDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Creating an aesthetic home office doesn’t have to be complicated. A beautiful workspace can inspire creativity, boost productivity, and make working from home enjoyable. Here are the essentials you need to set up an Instagram-worthy home office:
 

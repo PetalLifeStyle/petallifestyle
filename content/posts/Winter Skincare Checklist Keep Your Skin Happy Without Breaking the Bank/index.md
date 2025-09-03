@@ -8,7 +8,7 @@ tags:
   - skincare
   - winterSkincare
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Winter can be harsh on your skin, but keeping it soft and nourished doesn’t have to cost a fortune. Here’s a simple checklist to tackle dry, flaky skin from head to toe without stretching your budget.
@@ -21,24 +21,21 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61DneSp1jpL._AC_SL1500_.jpg" alt="Humidifier" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61DneSp1jpL._AC_SL1500_.jpg" alt="Humidifier" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
 
 # **2. Gentle Cleansing is Essential**
 
-**• Face and Body:** Swap harsh soaps for gentle, hydrating cleansers. Look for options with ceramides or oatmeal, like COSRX Hydrium Triple Hyaluronic Moisturizing Cleanser or Aveeno Daily Moisturizing Body Wash.
+**• Face and Body:** Swap harsh soaps for gentle, hydrating cleansers. Look for options with ceramides or oatmeal, like Round Lab 1025 Dokdo Cleanser or Etude House Soon Jung 6.5 Whip Cleanser.
 
 **• Feet:** Use a mild foot wash to avoid stripping natural oils.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61L+TqztPdL._SL1500_.jpg" alt="COSRX Hydrium Triple Hyaluronic Moisturizing Cleanser" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-  </div>
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71COf9NF9qL._SL1500_.jpg" alt="feet wash" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71COf9NF9qL._SL1500_.jpg" alt="feet wash" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -48,16 +45,13 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 
 **• Face:** Opt for a fragrance-free cream with hyaluronic acid or glycerin, such as Illiyoon Ceramide Ato Lotion.
 
-**• Body:** Choose rich body lotions or creams with shea butter or coconut oil. Try Eucerin Advanced Repair Lotion or Palmer's Cocoa Butter Formula.
+**• Body:** Choose rich body lotions or creams with shea butter or coconut oil. Try Pyunkang Yul Intensive Ceramide Lotion or Kose Softymo Deep Moisture Body Milk.
 
 **• Feet:** Apply a thick foot cream like O'Keeffe's Healthy Feet or petroleum jelly and wear socks overnight for deep hydration.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/41oW2XM5PuL._SL1000_.jpg" alt="Illiyoon Ceramide Ato Lotion" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-  </div>
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61cVHnHtwWL._SL1500_.jpg" alt="Eucerin Advanced Repair Lotion" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/41oW2XM5PuL._SL1000_.jpg" alt="Illiyoon Ceramide Ato Lotion" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -73,10 +67,10 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61Y44G-UvkL._SL1500_.jpg" alt="Beauty of Joseon Apricot Blossom Peeling Gel" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61Y44G-UvkL._SL1500_.jpg" alt="Beauty of Joseon Apricot Blossom Peeling Gel" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71NOVbjGA+L._SL1500_.jpg" alt="Tree Hut Shea Sugar Scrub" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71NOVbjGA+L._SL1500_.jpg" alt="Tree Hut Shea Sugar Scrub" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -91,28 +85,25 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/81zsBn0TCsL._SL1500_.jpg" alt="Burt's Bees Moisturizing Lip Balm" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/81zsBn0TCsL._SL1500_.jpg" alt="Burt's Bees Moisturizing Lip Balm" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71JnMdYhGkL._SL1500_.jpg" alt="IUNIK Centella Calming Moisture Daily Sunscreen" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71JnMdYhGkL._SL1500_.jpg" alt="IUNIK Centella Calming Moisture Daily Sunscreen" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
 
 # **6. Budget-Friendly Products to Try**
 
-**• Face:** COSRX Hydrium Triple Hyaluronic Moisturizing Cleanser .
+**• Face:** Etude House Soon Jung 6.5 Whip Cleanser.
 
 **• Body:** eos Shea Better Body Lotion.
 
-**• Feet:** Aquaphor – perfect for overnight repair.
+**• Feet:** Kose Q10 Night Renewal Cream
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61pp+20Oo0L._SL1500_.jpg" alt="eos Shea Better Body Lotion." style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-  </div>
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/813vzxctFcL._SL1500_.jpg" alt="Aquaphor" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61pp+20Oo0L._SL1500_.jpg" alt="eos Shea Better Body Lotion." style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>

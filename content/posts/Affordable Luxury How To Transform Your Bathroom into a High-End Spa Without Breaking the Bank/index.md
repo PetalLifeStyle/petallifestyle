@@ -8,7 +8,7 @@ tags:
   - affordableBathroom
   - homeDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Ever walked into a fancy hotel bathroom and thought, *Why doesn’t my bathroom feel this luxurious?* Well, good news—you don’t need a five-star budget to achieve that five-star look. With the right accessories, small upgrades, and clever tricks, your bathroom can go from "meh" to *magnifique* without costing a fortune.

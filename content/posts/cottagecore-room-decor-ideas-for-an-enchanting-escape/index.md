@@ -8,7 +8,7 @@ tags:
   - cottagecore
   - roomDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Are you dreaming of a serene, picturesque retreat inspired by quaint cottages and countryside charm? Cottagecore room decor is here to sprinkle a bit of magic into your living space, making it cozy, inviting, and straight out of a fairy tale. Whether you’re an interior design newbie or a seasoned DIY enthusiast, this guide will help you embrace the cottagecore aesthetic with practical tips and whimsical ideas. Let’s turn your room into the charming haven you’ve always envisioned!
 
@@ -58,11 +58,6 @@ Scour thrift stores, flea markets, and online marketplaces for vintage treasures
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S6a9540cfe1b64b1bbe0ba07ecfd0656cg.jpg_220x220q75.jpg_.avif" alt="Solid Wood Desk with Bookshelf Integrated" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_ok8DcRd" target="_blank">🔗Solid Wood Desk with Bookshelf Integrated</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sefdd61037bbf4929bc2084fbc6f4c042Y.jpg_220x220q75.jpg_.avif" alt="Girls Vintage Vanity Tables" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oFbfTmr" target="_blank">🔗Girls Vintage Vanity Tables</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
@@ -161,11 +156,6 @@ Soft, warm lighting is key to creating a cozy atmosphere. Opt for fairy lights, 
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd446e4cf5c754791b1f697a789907e11x.jpg_220x220q75.jpg_.avif" alt="Classic LED Pendant Light" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oobmoD1" target="_blank">🔗Classic LED Pendant Light</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S61310b785030489cb6bf8f372608c5b8d.jpg_220x220q75.jpg_.avif" alt="French Retro with Petals" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oDrojY3" target="_blank">🔗French Retro with Petals</a></p>
   </div>
@@ -219,11 +209,6 @@ Wrap lace around mason jars and place tea lights inside for a soft, romantic glo
 
 Decorate terracotta pots with pastel paints and simple floral designs for your plants.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/H2cb571e04fa544b2ad75f1cd5d87781b2.jpg_220x220q75.jpg_.avif" alt="Solar crack light Lantern" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oCfQzMb" target="_blank">🔗Solar crack light Lantern</a></p>
-  </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S4d672bdd9855403cb047e6f0df232053K.jpg_220x220q75.jpg_.avif" alt="Vintage Nordic Candle Holder" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />

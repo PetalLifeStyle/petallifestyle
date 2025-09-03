@@ -9,7 +9,7 @@ tags:
   - cuteDeskGadgets
   - aestheticGadget
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Studying or working for long hours can leave you feeling mentally drained and physically tense. That's where the power of self-care during study breaks comes into play. Integrating simple yet effective self-care products into your breaks can refresh your mind, reduce stress, and improve your focus.
 Here’s how to elevate your breaks with products that promote relaxation, reduce stress, and help you stay sharp and energized!

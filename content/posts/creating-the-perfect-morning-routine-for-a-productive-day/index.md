@@ -9,7 +9,7 @@ tags:
   - healthyLife
   - morningRoutine
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Mornings are the key to a successful day, but let’s be real: they can be tough, especially when that snooze button seems like the best friend you never knew you needed. While the usual advice—like waking up early, drinking water, and exercising—definitely helps, let’s talk about some *unconventional* and fun ways to supercharge your mornings so you can take on the world with energy and focus. The goal is to make your morning routine not just effective, but exciting and *different*—something you’ll look forward to, not dread.
 
@@ -77,12 +77,33 @@ Pro Tip: Use a fun, colorful journal or planner to write these down. It makes t
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71ZUww2Om9L._AC_SL1500_.jpg" alt="Journal" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71ZUww2Om9L._AC_SL1500_.jpg" alt="Journal" style="max-width: 90%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/618fxnZLXoL._AC_SL1000_.jpg" alt="Journal" style="max-width: 85%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/618fxnZLXoL._AC_SL1000_.jpg" alt="Journal" style="max-width: 76%; height: auto; display: block; margin: 0 auto;" />
   </div>
+
+</div>
+
+<div align="center">
+
+<a href="https://petallifestyle.gumroad.com/l/pasteltodolist?layout=profile" 
+   style="background-color:#FADADD; 
+          color:#333; 
+          padding:14px 28px; 
+          text-decoration:none; 
+          border-radius:12px; 
+          font-weight:600; 
+          font-size:16px; 
+          font-family:sans-serif; 
+          box-shadow:0px 4px 8px rgba(0,0,0,0.15); 
+          display:inline-block;
+          transition: all 0.3s ease;"
+   onmouseover="this.style.backgroundColor='#f7c6d4'; this.style.textDecoration='underline'; this.style.boxShadow='0px 6px 12px rgba(0,0,0,0.2)';"
+   onmouseout="this.style.backgroundColor='#FADADD'; this.style.textDecoration='none'; this.style.boxShadow='0px 4px 8px rgba(0,0,0,0.15)';">
+📓 Check Out Free Printable Planner Here 📓
+</a>
 
 </div>
 

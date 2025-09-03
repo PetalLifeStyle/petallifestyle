@@ -8,7 +8,7 @@ tags:
   - stressFreeLife
   - selfcareIdeas
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 After a long, hectic day, self-care isn't just a luxury—it's essential. If you’re tired of the usual “take a bubble bath” or “go for a walk” advice, we’ve got you covered with fresh, creative ways to relax and recharge. These ideas are fun, effective, and a little unconventional—perfect for breaking out of your stress rut!

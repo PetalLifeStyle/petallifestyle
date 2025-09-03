@@ -8,7 +8,7 @@ tags:
   - redoRoom
   - homeDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Ever scrolled through Pinterest, drooling over those dreamy bedrooms and living spaces? Well, guess what? You don't need a fat wallet to turn your room into a cozy haven. Let's dive into some wallet-friendly ways to give your space a stylish upgrade!
@@ -251,19 +251,10 @@ Living in a shoebox? No worries! Here's how to make the most of your space:
     <p><a href="https://s.click.aliexpress.com/e/_ok3EVLv" target="_blank">🔗Wall Decorative Iron Shelves</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S613f015ad39642d29344e33f2e6ba92ct.jpg_220x220q75.jpg_.avif" alt="Shelves Against The Wall" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oCqpKof" target="_blank">🔗Shelves Against The Wall</a></p>
-  </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S044b4a3d7ddc417d92393675523e2dbaz.jpg_220x220q75.jpg_.avif" alt="Simple Metal Bookshelf" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oFSgjUF" target="_blank">🔗Simple Metal Bookshelf</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S832ab9e10b6248c990e08a646e352df06.jpg_220x220q75.jpg_.avif" alt="Nordic Style Wall Hanging Folding Table" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oBJz1rp" target="_blank">🔗Nordic Style Wall Hanging Folding Table</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
@@ -284,11 +275,6 @@ Living in a shoebox? No worries! Here's how to make the most of your space:
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S30fe58e8433b4aeb840dd021d1821cb5E.jpg_220x220q75.jpg_.avif" alt="Suspended Wall-mounted Folding Table" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_om9Z1sj" target="_blank">🔗Suspended Wall-mounted Folding Table</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S4d84868135df4f8c88c7416be8ca936c5.jpg_220x220q75.jpg_.avif" alt="Floating Nightstands" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oofkdVH" target="_blank">🔗Floating Nightstands</a></p>
   </div>
 
 </div>
@@ -347,10 +333,6 @@ Living in a shoebox? No worries! Here's how to make the most of your space:
     <p><a href="https://s.click.aliexpress.com/e/_olK4RXn" target="_blank">🔗Cotton Rope Woven Basket</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sdcf022cf7f5a473facac1128e92ce6cbD.jpg_220x220q75.jpg_.avif" alt="Under Bed Organizer" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_okA3rEl" target="_blank">🔗Under Bed Organizer</a></p>
-  </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd180487540a245ddbe334e2a66bc6378M.jpg_220x220q75.jpg_.avif" alt="Flat Bed Under-Storage Box" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
@@ -383,19 +365,10 @@ Living in a shoebox? No worries! Here's how to make the most of your space:
     <p><a href="https://s.click.aliexpress.com/e/_oCojiM5" target="_blank">🔗Full Length Wavy Mirror</a></p>
   </div>
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sab020c34ccaf42279ecfccf10191a5d7c.jpg_220x220q75.jpg_.avif" alt="Minimalist Aesthetic Mirror" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oojBRz3" target="_blank">🔗Minimalist Aesthetic Mirror</a></p>
-  </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S86a4ddebe24949ec9bea3a68746d42c7h.jpg_220x220q75.jpg_.avif" alt="Mirror Wall Hanging" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oCs61qd" target="_blank">🔗Mirror Wall Hanging</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S779d3162b16248ebaa925dfb4c488363Q.jpg_220x220q75.jpg_.avif" alt="Full Body Dressing Mirror" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_ok43fil" target="_blank">🔗Full Body Dressing Mirror</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
@@ -426,7 +399,8 @@ Living in a shoebox? No worries! Here's how to make the most of your space:
 </div>
 
 
-Pro tip for saving space: Hunt down furniture that's got more than one use, like an ottoman with space inside or a bed that's got drawers.
+## Pro tip for saving space: 
+Hunt down furniture that's got more than one use, like an ottoman with space inside or a bed that's got drawers.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 

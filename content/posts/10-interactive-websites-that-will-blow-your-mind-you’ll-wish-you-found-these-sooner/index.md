@@ -9,7 +9,7 @@ tags:
   - CoolWebsites
   - InteractiveWebsites
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 #  1. [The Deep Sea](https://neal.fun/deep-sea/)
 

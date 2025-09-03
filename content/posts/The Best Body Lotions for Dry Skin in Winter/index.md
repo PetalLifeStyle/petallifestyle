@@ -8,7 +8,7 @@ tags:
   - bodycare
   - winterCare
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Winter is here, and so is the season of flaky skin, rough patches, and endless scratching. But don’t let dry skin ruin your vibe! With the right body lotion, you can keep your skin soft, hydrated, and glowing all season long. Here’s a list of some fabulous body lotions—including must-try Korean, Japanese, and other international favorites—to rescue your skin from the winter blues.
@@ -23,7 +23,7 @@ Winter is here, and so is the season of flaky skin, rough patches, and endless s
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/41rWinxuZWL._SL1000_.jpg" alt="Illiyoon Ceramide Ato Lotion" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/41rWinxuZWL._SL1000_.jpg" alt="Illiyoon Ceramide Ato Lotion" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -38,7 +38,7 @@ Winter is here, and so is the season of flaky skin, rough patches, and endless s
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/31fm7v3kDtL.jpg" alt="Hada Labo Gokujyun Premium Lotion" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/31fm7v3kDtL.jpg" alt="Hada Labo Gokujyun Premium Lotion" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -53,22 +53,23 @@ Winter is here, and so is the season of flaky skin, rough patches, and endless s
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51af0iRTySL._SL1000_.jpg" alt="Atopalm Moisturizing Body Lotion" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51af0iRTySL._SL1000_.jpg" alt="Atopalm Moisturizing Body Lotion" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
 
 ---
 
-# 4. **Eucerin Advanced Repair Lotion**
+# 4. **Pyunkang Yul Intensive Ceramide Lotion**
 
-- **Why It’s Amazing:** Formulated with urea and ceramides, this lotion provides intense moisture and exfoliates dry, rough patches.
-- **Texture:** Rich yet fast-absorbing, perfect for very dry winter skin.
-- **Extra Love:** Fragrance-free and gentle enough for eczema-prone skin.
+- **Why It’s Amazing:** Enriched with ceramides and plant-based oils, this lotion deeply nourishes and restores the skin barrier, perfect for dry, winter skin.
+- **Texture:** Lightweight yet ultra-hydrating, absorbs quickly without feeling greasy.
+- **Extra Love:** Fragrance-free, gentle on sensitive or eczema-prone skin.
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/615dSF0QYRL._SL1500_.jpg" alt="Eucerin Advanced Repair Lotion" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://pyunkangyul.us/cdn/shop/products/Pyunkang-Yul-Intensive-Ceramide-Lotion-500ml.jpg?v=1654645181&width=1946" alt="Pyunkang Yul Intensive Ceramide Lotion*" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -83,22 +84,23 @@ Winter is here, and so is the season of flaky skin, rough patches, and endless s
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71CdguTtQrL._SL1500_.jpg" alt="Curel Intensive Moisture Cream" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/71CdguTtQrL._SL1500_.jpg" alt="Curel Intensive Moisture Cream" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
 
 ---
 
-# 6. **Aveeno Skin Relief Moisturizing Lotion**
+# 6. **Momopuri Moist Gel Cream**
 
-- **Why It’s Amazing:** Made with soothing oatmeal, this lotion provides relief for dry, itchy skin while locking in moisture.
-- **Texture:** Lightweight and non-greasy, ideal for daily use.
-- **Extra Perk:** Fragrance-free and suitable for sensitive skin.
+- **Why It’s Amazing:** Enriched with coconut oil and shea butter, this gel-cream provides long-lasting hydration and smooths rough, dry skin.
+- **Texture:** Lightweight yet nourishing, perfect for everyday use during winter.
+- **Extra Perk:** Gentle, fragrance-free, and suitable for sensitive skin.
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/610JgzIv5qL._SL1500_.jpg" alt="Aveeno Skin Relief Moisturizing Lotion" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://int.japanesetaste.com/cdn/shop/files/P-1-BCL-MOP-GC-80-BCL_Momopuri_Moisture_Barrier_Gel_Cream_80g.jpg?v=1743419754&width=640" alt="Momopuri Moist Gel Cream" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -113,7 +115,7 @@ Winter is here, and so is the season of flaky skin, rough patches, and endless s
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51LQprprZCL._AC_SL1500_.jpg" alt="Round Lab 1025 Dokdo Lotion" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51LQprprZCL._AC_SL1500_.jpg" alt="Round Lab 1025 Dokdo Lotion" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>
@@ -128,7 +130,7 @@ Winter is here, and so is the season of flaky skin, rough patches, and endless s
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/41fRNlYzilL.jpg" alt="Yu-Be Moisturizing Skin Cream" style="max-width: 50%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/41fRNlYzilL.jpg" alt="Yu-Be Moisturizing Skin Cream" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
   </div>
 
 </div>

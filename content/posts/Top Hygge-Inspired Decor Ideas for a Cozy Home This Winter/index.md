@@ -8,7 +8,7 @@ tags:
   - roomDecor
   - homeDecor
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 Winter is the perfect time to embrace hygge. This Danish concept of coziness and comfort can transform your home into a warm retreat. Here are some fresh, must-have ideas to make your space more inviting:

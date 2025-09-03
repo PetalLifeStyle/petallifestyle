@@ -8,7 +8,7 @@ tags:
   - timeManagement
   - weeklyPlanning
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 Have you ever started your week feeling overwhelmed with tasks, not knowing where to start? You’re not alone! Weekly planning can seem like a daunting task, but with the right tools, it’s totally possible to plan out your week in just 10 minutes. Let’s dive into some productivity apps that can make this happen without breaking a sweat.
 

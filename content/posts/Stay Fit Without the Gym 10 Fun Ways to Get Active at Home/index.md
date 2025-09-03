@@ -8,7 +8,7 @@ tags:
   - gym
   - healthyLiving
 draft: false
-featured_image: featured.png
+featured_image: featured.webp
 ---
 
 In today's world, going to the gym isn't the only way to stay fit. Whether you're short on time, don’t like crowded spaces, or just prefer a more flexible fitness routine, there are plenty of ways to get your body moving and stay healthy without a gym membership. If you're ready to ditch the treadmill and try something more exciting (and maybe even more effective), keep reading for 10 fun, easy ways to stay fit right at home!

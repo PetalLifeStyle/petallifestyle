@@ -29,11 +29,7 @@
   parent = "Self-Care & Wellness"
   pageRef = "categories/bodycare"
   weight = 12
-[[main]]
-  name = "Mental Health"
-  parent = "Self-Care & Wellness"
-  pageRef = "categories/mental-health"
-  weight = 13
+
 [[main]]
   name = "SelfCare"
   parent = "Self-Care & Wellness"

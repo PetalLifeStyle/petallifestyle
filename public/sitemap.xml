@@ -21,8 +21,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/posts/learn-korean-with-me--part-4--10-must-know-korean-foods-3-with-examples/</loc>
+    <lastmod>2025-08-06T06:32:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/weirdly-addictive-websites-youll-keep-revisiting-that-youve-never-heard-of/</loc>
     <lastmod>2025-08-06T01:57:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/learn-korean-with-me--part-3--10-must-know-korean-foods-2-with-examples/</loc>
+    <lastmod>2025-07-26T06:32:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -34,6 +46,12 @@
   </url>
   <url>
     <loc>http://localhost:1313/posts/essentials-for-an-aesthetic-home-office/</loc>
+    <lastmod>2025-07-16T06:32:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/learn-korean-with-me--part-2-10-must-know-korean-foods-1-with-examples/</loc>
     <lastmod>2025-07-16T06:32:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -51,7 +69,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/learn-korean-with-me-part-1-10-must-know-korean-verbs-1-with-examples/</loc>
+    <loc>http://localhost:1313/posts/learn-korean-with-me--part-1-10-must-know-korean-verbs1-with-examples/</loc>
     <lastmod>2025-07-06T06:32:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

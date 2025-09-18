@@ -26,6 +26,8 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 
 </div>
 
+*Disclaimer: Some of the links in this post are affiliate links. If you make a purchase through these links, I may earn a small commission at no extra cost to you. Your support helps me continue to create content and share valuable resources with you!*   
+
 # **2. Gentle Cleansing is Essential**
 
 **• Face and Body:** Swap harsh soaps for gentle, hydrating cleansers. Look for options with ceramides or oatmeal, like Round Lab 1025 Dokdo Cleanser or Etude House Soon Jung 6.5 Whip Cleanser.
@@ -41,18 +43,51 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 </div>
 
 
+***Disclaimer: Some of the links or references on this page may contain images of women. We kindly advise our brothers in faith to avoid clicking on them, so that their nazar may remain in ḥifāẓat (protection). By placing this note, we intend to keep ourselves free from any blame. If one still chooses to proceed, the responsibility lies with them alone.***
+
 # **3. Moisturize Right After Bathing**
 
-**• Face:** Opt for a fragrance-free cream with hyaluronic acid or glycerin, such as Illiyoon Ceramide Ato Lotion.
+**• Face:** Opt for a fragrance-free cream with hyaluronic acid or glycerin, such as Illiyoon Ceramide Ato Lotion or [**Lhamour Award-Winning Natural Facial Oil For Deep Hydration & Healthy Glow**](https://www.lhamour.com/products/natural-rosehip-facial-oil?sca_ref=8121337.DCmZafggw7).
 
-**• Body:** Choose rich body lotions or creams with shea butter or coconut oil. Try Pyunkang Yul Intensive Ceramide Lotion or Kose Softymo Deep Moisture Body Milk.
+**• Body:** Choose rich body lotions or creams with shea butter or coconut oil. For a sustainable, vegan option, try [**Lhamour Natural Sea Buckthorn Oil Body Butter**](https://www.lhamour.com/products/natural-sea-buckthorn-oil-body-butter?sca_ref=8121337.DCmZafggw7)or [**Natural Revitalizing Body Oil**](https://www.lhamour.com/products/natural-revitalizing-body-oil?sca_ref=8121337.DCmZafggw7) — handmade by women and crafted with zero-waste practices, these products lock in moisture while keeping your skin soft, balanced, and radiant. [Bonus bonus: It offers FREE gift available for each order.]
 
-**• Feet:** Apply a thick foot cream like O'Keeffe's Healthy Feet or petroleum jelly and wear socks overnight for deep hydration.
+**• Hands:** For targeted hand care, use [**Lhamour Natural Sea Buckthorn Hand Butter**](https://www.lhamour.com/products/natural-sea-buckthorn-hand-butter?sca_ref=8121337.DCmZafggw7), which nourishes dry hands without synthetic additives.
+
+**• Feet:** Apply a thick foot cream like [**Lhamour Natural Sea Buckthorn Oil Foot Salve**](https://www.lhamour.com/products/natural-sea-buckthorn-oil-foot-salve?sca_ref=8121337.DCmZafggw7) or O’Keeffe’s Healthy Feet, and wear socks overnight for deep hydration.
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/41oW2XM5PuL._SL1000_.jpg" alt="Illiyoon Ceramide Ato Lotion" style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
-  </div>
+      <img src="/img/rosehip6_12.webp" alt="Lhamour Award-Winning Natural Facial Oil For Deep Hydration & Healthy Glow" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
+      <p><a href="https://www.lhamour.com/products/natural-rosehip-facial-oil?sca_ref=8121337.DCmZafggw7">
+        🔗Lhamour Award-Winning Natural Facial Oil </a></p>
+    </div>
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="sebuckbodybutterbdoy.webp" alt="Lhamour Natural Sea Buckthorn Oil Body Butter " style="max-width: 90%; height: auto; display: block; margin: 0 auto;" />
+      <p><a href="https://www.lhamour.com/products/natural-sea-buckthorn-oil-body-butter?sca_ref=8121337.DCmZafggw7">
+        🔗 Lhamour Natural Sea Buckthorn Oil Body Butter</a></p>
+    </div>
+    <div style="flex: 1 1 200px; text-align: center;">
+        <img src="revitalizingbdoy.webp" alt="Lhamour Revitalizing Body Oil" style="max-width: 30%; height: auto; display: block; margin: 0 auto;" />
+         <p>
+        <a href="https://www.lhamour.com/products/natural-revitalizing-body-oil?sca_ref=8121337.DCmZafggw7">
+          🔗 Lhamour Revitalizing Body Oil
+        </a>
+      </p>
+      </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="/img/seabuckhtornhandbutterbody.jpg" alt="Lhamour Natural Sea Buckthorn Hand Butter " style="max-width: 35%; height: auto; display: block; margin: 0 auto;" />
+      <p><a href="https://www.lhamour.com/products/natural-sea-buckthorn-hand-butter?sca_ref=8121337.DCmZafggw7">
+        🔗 Lhamour Natural Sea Buckthorn Hand Butter</a></p>
+    </div>
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="/img/footsalvebody2.webp" alt="Lhamour Natural Sea Buckthorn Oil Foot Salve" style="max-width: 80%; height: auto; display: block; margin: 0 auto;" />
+      <p><a href="https://www.lhamour.com/products/natural-sea-buckthorn-oil-foot-salve?sca_ref=8121337.DCmZafggw7">
+        🔗 Lhamour Natural Sea Buckthorn Oil Foot Salve</a></p>
+    </div>
 
 </div>
 
@@ -77,19 +112,23 @@ Winter can be harsh on your skin, but keeping it soft and nourished doesn’t ha
 
 # **5. Shield Your Skin from the Elements**
 
-**• Lips:** Keep a lip balm with SPF handy to prevent chapping. Try Laneige Lip Sleeping Mask or Burt's Bees Moisturizing Lip Balm.
+**• Lips:** Keep a lip balm all the times to prevent chapping. Try using [**Lhamour Natural Coconut Oil Lip Balm**](https://www.lhamour.com/products/natural-coconut-oil-lip-balm?sca_ref=8121337.DCmZafggw7)or [**Natural Beeswax lip balm**](https://www.lhamour.com/products/natural-beeswax-lip-balm?sca_ref=8121337.DCmZafggw7).
 
 **• Face and Body:** Don’t skip sunscreen. Winter sun can still cause damage. Choose those that are moisturizing like Beauty of Joseon Daily Relief Sunscreen or IUNIK Centella Calming Moisture Daily Sunscreen.
 
 **• Hands:** Wear gloves to protect your hands from cold, dry air.
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/81zsBn0TCsL._SL1500_.jpg" alt="Burt's Bees Moisturizing Lip Balm" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
-  </div>
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/71JnMdYhGkL._SL1500_.jpg" alt="IUNIK Centella Calming Moisture Daily Sunscreen" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="/img/coconutoillipbalm.webp" alt="Lhamour Natural Coconut Oil Lip Balm" style="max-width: 75%; height: auto; display: block; margin: 0 auto;" />
+      <p><a href="https://www.lhamour.com/products/natural-coconut-oil-lip-balm?sca_ref=8121337.DCmZafggw7">
+        🔗 Lhamour Natural Coconut Oil Lip Balm </a></p>
+    </div>
+    <div style="flex: 1 1 200px; text-align: center;">
+      <img src="/img/beeswax_closeup.webp" alt="Natural Beeswax lip balm" style="max-width: 80%; height: auto; display: block; margin: 0 auto;" />
+      <p><a href="https://www.lhamour.com/products/natural-beeswax-lip-balm?sca_ref=8121337.DCmZafggw7">
+        🔗 Lhamour Natural Beeswax lip balm</a></p>
+    </div>
 
 </div>
 

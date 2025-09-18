@@ -10,6 +10,7 @@ tags:
 draft: false
 featured_image: featured.webp
 ---
+
 Hey language lovers 👋
 
 Welcome to Part 1 of the "Learn Korean With Me" series!
@@ -274,12 +275,6 @@ And don’t forget to subscribe to my newsletter to get notified when the next
 - 내일 만화를 읽을 거예요. – I’ll read comics tomorrow.
 - 저는 매일 아침에 신문을 읽어요. – I read the newspaper every morning.
 - 친구에게서 받은 편지를 읽었어요. – I read a letter from a friend.
-
----
-
-## 🎧 Pronunciation Clips – Coming Soon!
-
-I’m working on adding voice recordings for each verb and sentence! 🎤
 
 ---
 

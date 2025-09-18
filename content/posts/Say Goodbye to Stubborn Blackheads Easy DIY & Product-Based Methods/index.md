@@ -22,9 +22,12 @@ Blackheads. Ugh! Those pesky little dots that seem impossible to get rid of. But
 - A few drops of tea tree oil (optional)
 - A small bowl and spoon
 
+
+*Disclaimer: Some of the links in this post are affiliate links. If you make a purchase through these links, I may earn a small commission at no extra cost to you. Your support helps me continue to create content and share valuable resources with you!*   
+
 ## Steps:
 
-- **Prep Your Skin:** Tie your hair back and cleanse your face with a gentle Korean cleanser, like Etude House Soon Jung 6.5 Whip Cleanser, to remove dirt and makeup.
+- **Prep Your Skin:** Tie your hair back and cleanse your face with a gentle cleanser, like Etude House Soon Jung 6.5 Whip Cleanser, to remove dirt and makeup.
 - **Mix the Mask:** In a small bowl, combine 1 tsp bentonite clay with 1 tsp honey. Add 1–2 drops of tea tree oil if your skin is acne-prone.
 - **Apply the Mask:** Spread a thin layer over blackhead-prone areas (nose, chin, forehead).
 - **Let It Sit:** Leave the mask on for 10–15 minutes until partially dry. It will gently pull out impurities without over-drying your skin.
@@ -152,18 +155,30 @@ Do this routine once a week to avoid over-exfoliation and keep your skin balance
 ## Additional Tips to Keep Blackheads at Bay
 
 - **Exfoliate Weekly:** Use a mild exfoliator to remove dead skin cells and prevent pore clogging.
-- **Stay Hydrated:** Hydration is key to healthy skin! Don’t skip your moisturizer, even if you have oily skin. Etude House SoonJung Hydro Barrier Cream is lightweight and perfect for all skin types.
+- **Stay Hydrated:** Hydration is key to healthy skin! Don’t skip your moisturizer, even if you have oily skin. Etude House SoonJung Hydro Barrier Cream is lightweight and perfect for all skin types. If you are into sustainable skincare then you can definitely go for [*Lhamour Natural Hydrating Facial Cream*](https://www.lhamour.com/products/natural-hydrating-facial-cream?sca_ref=8121337.DCmZafggw7) which is known to be an organic skincare brand without hidden toxins, uses pure, antioxidant-rich ingredients. It is super light weight and gets absorbed easily. (It also has FREE gift available for each order).
+
+***Disclaimer: Some of the links or references on this page may contain images of women. We kindly advise our brothers in faith to avoid clicking on them, so that their nazar may remain in ḥifāẓat (protection). By placing this note, we intend to keep ourselves free from any blame. If one still chooses to proceed, the responsibility lies with them alone.***
+
+<div style="text-align: center;">
+  <img src="facecream.jpg" alt="My Product" style="max-width:300px; height:auto; margin: 0 auto;" />
+  <p>
+    <a href="https://www.lhamour.com/products/natural-hydrating-facial-cream?sca_ref=8121337.DCmZafggw7">
+      🔗 Lhamour Natural Hydrating Facial Cream
+    </a>
+  </p>
+</div>
+
 - **Avoid Touching Your Face:** Constantly touching your face can transfer bacteria and oils, making blackheads worse.
-- **Use Sunscreen Daily:** Protect your skin from sun damage and prevent pores from enlarging. You can go for Beauty of Joseon Daily Relief Sunscreen. If you want to find out the perfect sunscreen based on your skin type check out **[*The Best Korean Sunscreens Based On Skin Type .*](https://www.notion.so/The-Best-Korean-Sunscreens-Based-On-Skin-Type-2030dff09b948011935fcb5c4a537157?pvs=21)**
+- **Use Sunscreen Daily:** Protect your skin from sun damage and prevent pores from enlarging. You can go for Beauty of Joseon Daily Relief Sunscreen. If you want to find out the perfect sunscreen based on your skin type check out **[*The Best Korean Sunscreens Based On Skin Type .*](https://petallifestyle.pages.dev/posts/the-best-korean-sunscreens-based-on-skin-type/)**
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/51P82rfvMeL._SL1000_.jpg" alt="SoonJung" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/51P82rfvMeL._SL1000_.jpg" alt="SoonJung" style="max-width: 70%; height: auto; display: block; margin: 0 auto;" />
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://m.media-amazon.com/images/I/61-OzCeI4mL._SL1500_.jpg" alt="Beauty of Josoen sunscreen" style="max-width: 60%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://m.media-amazon.com/images/I/61-OzCeI4mL._SL1500_.jpg" alt="Beauty of Josoen sunscreen" style="max-width: 70%; height: auto; display: block; margin: 0 auto;" />
   </div>
-
 
 </div>
 

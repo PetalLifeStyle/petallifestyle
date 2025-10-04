@@ -87,6 +87,51 @@ Why settle for a boring desk lamp when you could have one that doubles as decor 
   </div>
 </div>
 
+<div style="display:flex; justify-content:center; margin:20px 0;">
+  <a href="https://www.happydownloads.net/product/student-digital-stickers/?ref=PETAL20" target="_blank" style="text-decoration:none;">
+    <div class="sticker-box">
+      <img src="https://www.happydownloads.net/wp-content/uploads/2024/06/Student-Stickers-new-7-768x614.png" alt="Student Digital Stickers" class="sticker-img">
+      <p class="sticker-text">Student Digital Stickers</p>
+    </div>
+  </a>
+</div>
+
+<style>
+.sticker-box {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #fff0f5; /* light pink */
+  border: 2px solid #ffb6c1;
+  border-radius: 16px;
+  padding: 4px;
+  width: 380px;
+  height: 180px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+.sticker-box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 14px rgba(0,0,0,0.2);
+  background: #ffdee9; /* darker pink on hover */
+}
+.sticker-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 5%;
+}
+.sticker-text {
+  margin: 0;
+  font-weight: bold;
+  color: #444;
+  font-size: 18px;
+  transition: all 0.3s ease;
+}
+.sticker-box:hover .sticker-text {
+  text-decoration: underline;
+}
+</style>
+
 
 ## 2.Cute Desk Organizers 🗂️✨
 
@@ -203,7 +248,7 @@ A mini desk humidifier is the secret to keeping your workspace fresh and comfy. 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://www.juwas.com/cdn/shop/products/O1CN01dIesJq2EMqgsYWj4Y__2566008731.jpg?v=1611146905&width=1800" alt="Kawaii Mini House Air Humidifier with Warm Light" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://www.juwas.com/cdn/shop/products/O1CN01dIesJq2EMqgsYWj4Y__2566008731.jpg?v=1611146905&width=1800" alt="Kawaii Mini House Air Humidifier with Warm Light" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://www.juwas.com/collections/humidifier/products/desk-humidifier-with-warm-light?ref=PETAL20" target="_blank">🔗Kawaii Mini House Air Humidifier with Warm Light</a></p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">

@@ -92,6 +92,28 @@ Take a moment to open your bank statement and see how much money you've poured i
 ### 3. Put away your headphones:
 Place your headphones somewhere out of reach—perhaps with your parents or in a spot that’s not easily accessible. Let’s be honest: in most cases, we use them to listen to music rather than lectures or anything beneficial. So, if possible, switch to speaker mode when listening to something important. That way, you’ll be less tempted to drift back into music.
 
+
+<div align="center">
+
+<a href="https://fateemajournal.gumroad.com/l/quranplanner?a=514956947" 
+   target="_blank"
+   style="background-color:#FADADD; 
+          color:#333; 
+          padding:14px 28px; 
+          text-decoration:none; 
+          border-radius:12px; 
+          font-weight:600; 
+          font-size:16px; 
+          font-family:sans-serif; 
+          box-shadow:0px 4px 8px rgba(0,0,0,0.15); 
+          display:inline-block;
+          transition: all 0.3s ease;"
+   onmouseover="this.style.backgroundColor='#f7c6d4'; this.style.textDecoration='underline'; this.style.boxShadow='0px 6px 12px rgba(0,0,0,0.2)';"
+   onmouseout="this.style.backgroundColor='#FADADD'; this.style.textDecoration='none'; this.style.boxShadow='0px 4px 8px rgba(0,0,0,0.15)';">
+🌸 Check Out This Quran Planner 🌸
+</a>
+</div>
+
 ### 4. Block music sites:
 Use blocking extensions or apps to keep yourself from visiting music sites. Here are some apps and chrome extension you can use:
 > Mobile App: Appblock, Freedom, BlockSite.
@@ -144,6 +166,7 @@ Make dua to allah to ease it for you. There’s a beautiful dua that always stay
 <div align="center">
 
 <a href="https://petallifestyle.gumroad.com/l/dailyislamicduacards" 
+   target="_blank"
    style="background-color:#FADADD; 
           color:#333; 
           padding:14px 28px; 

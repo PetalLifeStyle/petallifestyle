@@ -99,8 +99,20 @@ weight = 32
 
 [[main]]
   name = "My Shop"
-  url = "https://petallifestyle.gumroad.com/"
   weight = 40
+
+[[main]]
+name = "Physical products"
+parent = "My Shop"
+url = "https://shopmy.us/shop/petallifestyle?Section_id=1096884&tab=collections"
+weight = 42
+
+[[main]]
+name = "Digital products"
+parent = "My Shop"
+url = "https://petallifestyle.gumroad.com/"
+weight = 44
+
 
 #[[main]]
 #  name = "Parent"

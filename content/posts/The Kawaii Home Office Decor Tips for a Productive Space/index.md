@@ -39,6 +39,9 @@ A well-decorated, calming home office can:
 So yes, your cute pastel workspace setup isn’t just for Instagram - it’s a legit productivity hack.
 
 ---
+*Disclaimer: Some of the links in this post are affiliate links. If you make a purchase through these links, I may earn a small commission at no extra cost to you. Your support helps me continue to create content and share valuable resources with you!*   
+
+***Disclaimer: Some of the links or references on this page may contain images of women. We kindly advise our brothers in faith to avoid clicking on them, so that their nazar may remain in ḥifāẓat (protection). By placing this note, we intend to keep ourselves free from any blame. If one still chooses to proceed, the responsibility lies with them alone.***
 
 # 1. Start With a Purpose-Based Color Palette 🎨
 

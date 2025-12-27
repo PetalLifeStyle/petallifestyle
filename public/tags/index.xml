@@ -682,11 +682,41 @@
     </item>
     
     <item>
-      <title>KawaiiOffice</title>
-      <link>http://localhost:1313/tags/kawaiioffice/</link>
+      <title>DeskSetup</title>
+      <link>http://localhost:1313/tags/desksetup/</link>
       <pubDate>Wed, 28 May 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
-      <guid>http://localhost:1313/tags/kawaiioffice/</guid>
+      <guid>http://localhost:1313/tags/desksetup/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KawaiiHomeOffice</title>
+      <link>http://localhost:1313/tags/kawaiihomeoffice/</link>
+      <pubDate>Wed, 28 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/kawaiihomeoffice/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MuslimFriendlyDecor</title>
+      <link>http://localhost:1313/tags/muslimfriendlydecor/</link>
+      <pubDate>Wed, 28 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/muslimfriendlydecor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ProductivityWorkspace</title>
+      <link>http://localhost:1313/tags/productivityworkspace/</link>
+      <pubDate>Wed, 28 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/productivityworkspace/</guid>
       <description></description>
       
     </item>

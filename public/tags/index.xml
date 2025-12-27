@@ -352,6 +352,16 @@
     </item>
     
     <item>
+      <title>Fragrance</title>
+      <link>http://localhost:1313/tags/fragrance/</link>
+      <pubDate>Thu, 03 Jul 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/fragrance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>KitchenDecor</title>
       <link>http://localhost:1313/tags/kitchendecor/</link>
       <pubDate>Thu, 03 Jul 2025 06:32:00 +0000</pubDate>
@@ -367,6 +377,26 @@
       <pubDate>Thu, 03 Jul 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
       <guid>http://localhost:1313/tags/kitchenessentials/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SelfCare</title>
+      <link>http://localhost:1313/tags/selfcare/</link>
+      <pubDate>Thu, 03 Jul 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/selfcare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SmellingGood</title>
+      <link>http://localhost:1313/tags/smellinggood/</link>
+      <pubDate>Thu, 03 Jul 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/smellinggood/</guid>
       <description></description>
       
     </item>
@@ -547,16 +577,6 @@
       <pubDate>Tue, 10 Jun 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
       <guid>http://localhost:1313/tags/perfectmorning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SelfCare</title>
-      <link>http://localhost:1313/tags/selfcare/</link>
-      <pubDate>Tue, 10 Jun 2025 06:32:00 +0000</pubDate>
-      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
-      <guid>http://localhost:1313/tags/selfcare/</guid>
       <description></description>
       
     </item>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DrySkin on Petal Lifestyle</title>
+    <link>http://localhost:1313/tags/dryskin/</link>
+    <description>Recent content in DrySkin on Petal Lifestyle</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
+    <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
+    
+    <lastBuildDate>Thu, 12 Jun 2025 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/dryskin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Best Body Lotions for Dry Skin in Winter</title>
+      <link>http://localhost:1313/posts/the-best-body-lotions-for-dry-skin-in-winter/</link>
+      <pubDate>Thu, 12 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/the-best-body-lotions-for-dry-skin-in-winter/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-best-body-lotions-for-dry-skin-in-winter/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

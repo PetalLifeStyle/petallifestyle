@@ -15,13 +15,13 @@ Looking for interactive websites to visit when you’re bored, stressed, or tire
 
 If you enjoy discovering hidden corners of the internet, you might also like my list of fun [Chrome extensions for students](https://petallifestyle.pages.dev/posts/best-chrome-extensions-for-students-supercharge-your-study--it-skills/) that turn everyday browsing into something more playful.
 
-#  1. [The Deep Sea](https://neal.fun/deep-sea/)
+##  1. [The Deep Sea](https://neal.fun/deep-sea/)
 
 This interactive scrolling website shows how deep the ocean goes and what exists at each depth — from jellyfish to shipwrecks and mysterious creatures. Fascinating, educational, and visually beautiful. Great if you're into marine life, science, or just mind-blown facts.
 
 ---
 
-#  2. [Hacker Typer](https://hackertyper.net/)🧠
+##  2. [Hacker Typer](https://hackertyper.net/)🧠
 
 Type anything — smash your keyboard even — and make it look like you’re hacking into NASA. Your productivity won't go up, but your ego might! Perfect prank site or confidence booster when you’re pretending to work.
 
@@ -31,7 +31,7 @@ Type anything — smash your keyboard even — and make it look like you’re ha
 
 ---
 
-# 3. [Do Nothing for 2 Minutes](https://www.donothingfor2minutes.org/)
+## 3. [Do Nothing for 2 Minutes](https://www.donothingfor2minutes.org/)
 
 A surprisingly hard challenge: just sit there and do *nothing* for 2 minutes. If you touch your keyboard or mouse, it restarts. Sounds easy? Try it. Especially helpful for learning mindfulness and digital discipline.
 
@@ -90,7 +90,7 @@ I’ve got a few more lesser-known gems like this up my sleeve. Let me know in t
 
 ---
 
-# ️4. [Google Arts & Culture Experiments](https://artsandculture.google.com/experiment/jwG3m7wQShZngw)
+## ️4. [Google Arts & Culture Experiments](https://artsandculture.google.com/experiment/jwG3m7wQShZngw)
 
 This whole collection is 🔥. Play with AI-generated art, explore art history with games, or see if you can say what you see!(sounds confusing? Just go to the website and see for yourself). Great for students, art lovers, and the curious-minded.
 
@@ -102,13 +102,13 @@ Want something even more creative? Try [*Feather Draw*](https://www.feather.art
 
 ---
 
-# 5. [The Wiki Game](https://www.thewikigame.com/)📜
+## 5. [The Wiki Game](https://www.thewikigame.com/)📜
 
 Start on one random Wikipedia page and try to reach another using only the internal links. It’s like a nerdy race through knowledge. Addictive and sneakily educational!
 
 ---
 
-# 6. [100,000 Stars](https://stars.chromeexperiments.com/)🌌
+## 6. [100,000 Stars](https://stars.chromeexperiments.com/)🌌
 
 A cosmic masterpiece by Google. It’s a real-time 3D visualization of 100,000 stars in our galaxy. You can zoom in, explore constellations, or just drift in space. It feels like you’re piloting a starship through the universe.
 
@@ -162,19 +162,19 @@ A cosmic masterpiece by Google. It’s a real-time 3D visualization of 100,000 s
 
 ---
 
-# 7. [Bouncy Balls](https://bouncyballs.org/)🧩
+## 7. [Bouncy Balls](https://bouncyballs.org/)🧩
 
 Not just fun — also useful for classrooms or focus. This visual noise meter shows bouncing balls that move with real-time sound input. Shout and they go crazy. Stay quiet and they settle. Great for focus challenges or just goofing off.
 
 ---
 
-# 8. [Blush Play](https://blush.design/)🎨
+## 8. [Blush Play](https://blush.design/)🎨
 
 Blush lets you customize and play with illustrated characters in real-time. You can change their expressions, outfits, moods — and it all updates live as you click. It’s like dressing up digital stickers for your site, stories, or mood.
 
 ---
 
-# 9. [Click Click Click](https://clickclickclick.click/)🖱
+## 9. [Click Click Click](https://clickclickclick.click/)🖱
 
 This site tracks your every click, hover, and pause — and narrates it like a creepy (but hilarious) AI. “Ah, you’re scrolling now... Interesting!” It makes you *weirdly* self-aware of your digital habits. Fun and slightly spooky.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
@@ -203,20 +203,20 @@ This site tracks your every click, hover, and pause — and narrates it like a c
 
 ---
 
-# 10. [Sandspiel](https://sandspiel.club/)🧮
+## 10. [Sandspiel](https://sandspiel.club/)🧮
 
 Draw with elements like fire, water, lava, and plants — and watch how they interact in real-time. It’s like a digital sandbox with physics. Great for science nerds, artists, or anyone who wants to chill out.
 
 If calming visuals help you relax, you might also enjoy [these calming desk gadgets](https://petallifestyle.pages.dev/posts/adorable-gadgets-for-stress-relief-during-study-breaks/) that make your desk feel more peaceful.
 ---
 
-# 11. [Optical Illusions Game](https://michaelbach.de/ot/)
+## 11. [Optical Illusions Game](https://michaelbach.de/ot/)
 
 Not just gifs — actual scientific illusions that you can interact with. Change speeds, contrast, and angles to trick your brain in the most delightful ways. Great for psychology fans!
 
 ---
 
-# 12. [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
+## 12. [Absurd Trolley Problems](https://neal.fun/absurd-trolley-problems/)
 
 You’re presented with wild moral dilemmas — do you pull the lever and crush a bridge, or let aliens invade? It’s a satirical spin on the classic trolley problem, with fresh ethical questions and dark humor.
 

@@ -26,7 +26,7 @@ If you’ve ever wondered how to smell good all day, how to smell fresh all day 
 
 You’ll also notice that every product on this list comes from thoughtfully chosen, **ethical beauty brands**. These are great alternative body washes for anyone looking to switch from mainstream brands while still enjoying high-quality, long-lasting scents. If you’re searching for body wash alternatives, ethical beauty replacements, or simply want better-smelling products that actually perform, this list is a great place to start.
 
-# 1. [Nécessaire The Body Wash – Best Overall Long-Lasting Scent](https://go.shopmy.us/p-36454349)
+## 1. [Nécessaire The Body Wash – Best Overall Long-Lasting Scent](https://go.shopmy.us/p-36454349)
 
 - **Best for:** Clean, spa-like skin that smells expensive but not loud
 - **Key scent notes:** Eucalyptus (light and calming)
@@ -50,7 +50,7 @@ What really helps the scent last is the vitamin-rich formula (niacinamide, vitam
   </div>
 </div>
 
-# 2. [L’Occitane Almond Shower Oil – Best for Dry Skin + Soft Scent](https://go.shopmy.us/p-36454754)
+## 2. [L’Occitane Almond Shower Oil – Best for Dry Skin + Soft Scent](https://go.shopmy.us/p-36454754)
 
 - **Best for:** Dry skin, shaving days, soft cozy scent lovers
 - **Key scent notes:** Sweet almond
@@ -77,7 +77,7 @@ Bonus: because it’s oil-based, your skin stays moisturized long after you towe
 
 <iframe title="Body Wash" src="https://shopmy.us/collections/embed/3257125?" style="width: 100%; min-height: 340px; border: none; margin: 20px"></iframe>
 
-# 3. [OUAI Body Cleanser – Best Perfume-Like Body Wash](https://go.shopmy.us/p-36456180)
+## 3. [OUAI Body Cleanser – Best Perfume-Like Body Wash](https://go.shopmy.us/p-36456180)
 
 - **Best for:** People who want their body wash to smell like a fragrance
 - **Key scent notes:** Rose, bergamot, lychee, white musk
@@ -102,7 +102,7 @@ It’s one of those “what are you wearing?” body washes.
   </div>
 </div>
 
-# 4. [Sol de Janeiro Delícia Drench Shower Oil – Best Sweet & Cozy Scent](https://go.shopmy.us/p-36457005)
+## 4. [Sol de Janeiro Delícia Drench Shower Oil – Best Sweet & Cozy Scent](https://go.shopmy.us/p-36457005)
 
 - **Best for:** Sweet scent lovers, dry skin
 - **Key scent notes:** Soft florals, sandalwood
@@ -125,7 +125,7 @@ The oil formula deeply hydrates your skin, and that moisture helps the scent sta
   </div>
 </div>
 
-# 5. [By Rosie Jane Wake Body Wash – Best Fresh Morning Scent](https://go.shopmy.us/p-36459204)
+## 5. [By Rosie Jane Wake Body Wash – Best Fresh Morning Scent](https://go.shopmy.us/p-36459204)
 
 - **Best for:** Morning showers, citrus lovers
 - **Key scent notes:** Citrus, eucalyptus

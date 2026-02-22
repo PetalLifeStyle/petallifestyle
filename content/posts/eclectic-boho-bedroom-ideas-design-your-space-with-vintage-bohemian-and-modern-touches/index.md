@@ -66,14 +66,8 @@ In the world of eclectic boho decor, patterns are your friend. Mixing stripes wi
 
 **Best Products for Pattern Play**:
 
-- [**Mandala Print Bedspread**](https://s.click.aliexpress.com/e/_oE6YvNV): A bold piece that anchors the bed while tying together your eclectic boho look.
 - [**Patterned Throw Pillows**](https://s.click.aliexpress.com/e/_oFI3gXV): Layer multiple throws with mismatched prints for a cozy, welcoming vibe.
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/He8b54a4fcee34c569104d2e7c39c46a2T.jpg_220x220q75.jpg_.avif" alt="Summer Cotton Blanket Mandala Bohemia Style" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oFhpzll" target="_blank">🔗Summer Cotton Blanket Mandala Bohemia Style</a></p>
-  </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S597c1be23381417dab547e9aea5398c4W.jpg_220x220q75.jpg_.avif" alt="French Blue Colour Throw Pillow" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
@@ -107,11 +101,6 @@ One of the hallmarks of boho style is layering—be it textiles, rugs, or even d
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S13eda853b1074b4d98feada4548396a0d.jpg_220x220q75.jpg_.avif" alt="HeMu Round Woven Rugs" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oFLht1H" target="_blank">🔗HeMu Round Woven Rugs</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S60352339f36f4810837e84f3fed6bbd1R.jpg_220x220q75.jpg_.avif" alt="Handwoven Wool Jute Runner" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oFcamsX" target="_blank">🔗Handwoven Wool Jute Runner</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">

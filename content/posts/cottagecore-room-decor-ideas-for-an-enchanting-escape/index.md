@@ -113,11 +113,6 @@ A true cottagecore space is incomplete without a touch of greenery. Place potted
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S44a4e3c46a48464b8c13887dd0f2fde1u.jpg_220x220q75.jpg_.avif" alt="Creative Lotus Seedpod Ceramic Vase" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oFwO5z5" target="_blank">🔗Creative Lotus Seedpod Ceramic Vase</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sa86a7f709b6c47c383acb3e53e6909a9q.jpg_220x220q75.jpg_.avif" alt="French Vintage Farmhouse Style" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_omxDwK3" target="_blank">🔗French Vintage Farmhouse Style</a></p>
   </div>

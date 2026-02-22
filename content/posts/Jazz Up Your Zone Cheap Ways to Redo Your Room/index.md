@@ -22,13 +22,7 @@ You'd be amazed at how little tweaks can totally transform your room. Here are s
 - **Wall Art Wonder:** Grab some trendy posters or prints. They're like instant personality for your walls! You can go for wall stickers too. Using your own name sticker is also an option.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sce20b51b6325433f8e8beb359af34d678.jpg_220x220q75.jpg_.avif" alt="Cartoon Hot Air Balloon and Star Wall Sticker" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oFF7lah" target="_blank">🔗Cartoon Hot Air Balloon and Star Wall Sticker</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
+ <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sc80b3efee1e1458294ad7b76fc3da0abl.jpg_220x220q75.jpg_.avif" alt="Boho Colorful Polka Dots" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_omNtALB" target="_blank">🔗Boho Colorful Polka Dots</a></p>
   </div>
@@ -49,11 +43,6 @@ You'd be amazed at how little tweaks can totally transform your room. Here are s
 - **Light It Up:** LED strip lights are a game-changer. Stick 'em behind your bed or desk for that cool, ambient glow.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Habb11e19a30e4c7a889585bc43f48e82H.jpg_220x220q75.jpg_.avif" alt="Green Leaf String Lights" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_omWAq0Z" target="_blank">🔗Green Leaf String Lights</a></p>
-  </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S4a42853bbb9042209d68160fa4feebc8I.jpg_220x220q75.jpg_.avif" alt="Rose Flower String Lights" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
@@ -89,12 +78,6 @@ You'd be amazed at how little tweaks can totally transform your room. Here are s
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sa725517c9ae24945a09714484dd0c30fU.jpg_220x220q75.jpg_.avif" alt="Cloud Plush Pillow" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <br>
-    <a href="https://s.click.aliexpress.com/e/_omT5ChF" target="_blank">Cloud Plush Pillow</a>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S2902427745c641d58aafcbc2bbfe01e21.jpg_220x220q75.jpg_.avif" alt="Knot Ball Stuffed Pillow" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <br>
     <a href="https://s.click.aliexpress.com/e/_oEYATFL" target="_blank">Knot Ball Stuffed Pillow</a>
@@ -110,18 +93,6 @@ You'd be amazed at how little tweaks can totally transform your room. Here are s
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sd5926fc00f054e1ba4ff14188c132b2cE.jpg_220x220q75.jpg_.avif" alt="Leaves Plushie Cushion" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
     <br>
     <a href="https://s.click.aliexpress.com/e/_onQOH3T" target="_blank">Leaves Plushie Cushion</a>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/H90ffd542dad942d585f2e6927c511cb1I.jpg_220x220q75.jpg_.avif" alt="Sleeping Throw Pillow" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <br>
-    <a href="https://s.click.aliexpress.com/e/_olVe40p" target="_blank">Sleeping Throw Pillow</a>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S0d706603876e424a9507ec69f624339fL.jpg_220x220q75.jpg_.avif" alt="Decorative Cushion" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
-    <br>
-    <a href="https://s.click.aliexpress.com/e/_oB2WvE1" target="_blank">Decorative Cushion</a>
   </div>
 
 </div>
@@ -162,20 +133,6 @@ Time to channel your inner artist! DIY projects are not just fun, they're also e
       <img src="https://ae-pic-a1.aliexpress-media.com/kf/S7eb56764bd054f3ca6a3c9a96e9ac194b.jpg_220x220q75.jpg_.avif" alt="Stars Washi Tape" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     </a>
     <p><a href="https://s.click.aliexpress.com/e/_okJjRyl" target="_blank">🔗Stars Washi Tape</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <a href="https://s.click.aliexpress.com/e/_oEquQFB" target="_blank">
-      <img src="https://ae-pic-a1.aliexpress-media.com/kf/S9b169bf95d8a4f2098d2e7308e1feb5ba.jpg_220x220q75.jpg_.avif" alt="Sakura Washi Tape Set" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    </a>
-    <p><a href="https://s.click.aliexpress.com/e/_oEquQFB" target="_blank">🔗Sakura Washi Tape Set</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <a href="https://s.click.aliexpress.com/e/_oo5QtUz" target="_blank">
-      <img src="https://ae-pic-a1.aliexpress-media.com/kf/S99d8c711f93c44a4b52dba9a54d96a90X.jpg_220x220q75.jpg_.avif" alt="Retro Grid Washi Tape Set" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    </a>
-    <p><a href="https://s.click.aliexpress.com/e/_oo5QtUz" target="_blank">🔗Retro Grid Washi Tape Set</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
@@ -237,24 +194,8 @@ Living in a shoebox? No worries! Here's how to make the most of your space:
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Seab80f87e6a648a28996a138f1f1c9bca.jpg_220x220q75.jpg_.avif" alt="ins Iron European Style Living Wall" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_onqRc7N" target="_blank">🔗ins Iron European Style Living Wall</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S1380c8b07dff44fc8f4ea2a2a24d30106.jpg_220x220q75.jpg_.avif" alt="Floating Nightstand" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_omny7Pt" target="_blank">🔗Floating Nightstand</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S437b6574d3ab4a228d11ff56876c1ae5p.jpg_220x220q75.jpg_.avif" alt="Wall Decorative Iron Shelves" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_ok3EVLv" target="_blank">🔗Wall Decorative Iron Shelves</a></p>
-  </div>
-
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S044b4a3d7ddc417d92393675523e2dbaz.jpg_220x220q75.jpg_.avif" alt="Simple Metal Bookshelf" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oFSgjUF" target="_blank">🔗Simple Metal Bookshelf</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
@@ -296,11 +237,6 @@ Living in a shoebox? No worries! Here's how to make the most of your space:
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S413445d4cef54f3f895f572a2f81be3en.jpg_220x220q75.jpg_.avif" alt="Hand Woven Storage Baskets with Lid" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_olMiEwv" target="_blank">🔗Hand Woven Storage Baskets with Lid</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S47f7822a1407405e928d933ad174ffccO.jpg_220x220q75.jpg_.avif" alt="Bed Bottom Storage Box" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oDm9ShP" target="_blank">🔗Bed Bottom Storage Box</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
@@ -356,17 +292,6 @@ Living in a shoebox? No worries! Here's how to make the most of your space:
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S31f87502fc6d45bb80292d1cbeff3324I.jpg_220x220q75.jpg_.avif" alt="full length floor dressing mirror" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_onA3GEZ" target="_blank">🔗full length floor dressing mirror</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S8ed503194321465ea7f085e65ab6b589j.jpg_220x220q75.jpg_.avif" alt="Full Length Wavy Mirror" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oCojiM5" target="_blank">🔗Full Length Wavy Mirror</a></p>
-  </div>
-
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S86a4ddebe24949ec9bea3a68746d42c7h.jpg_220x220q75.jpg_.avif" alt="Mirror Wall Hanging" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oCs61qd" target="_blank">🔗Mirror Wall Hanging</a></p>
   </div>
@@ -415,11 +340,6 @@ Hunt down furniture that's got more than one use, like an ottoman with space ins
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/Sc6f40638b5de42ffa5054c752e728ed6A.jpg_220x220q75.jpg_.avif" alt="Storage Ottoman Coffee Table" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_olI4BcZ" target="_blank">🔗Storage Ottoman Coffee Table</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S856ff535fd4740c18c97f587fd5e36aa6.jpg_220x220q75.jpg_.avif" alt="Storage Shoes Bench" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_oFpzFvL" target="_blank">🔗Storage Shoes Bench</a></p>
   </div>
@@ -440,18 +360,8 @@ Hunt down furniture that's got more than one use, like an ottoman with space ins
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S63ae6ed4671b4755a70d222b82ccd537X.jpg_220x220q75.jpg_.avif" alt="Custom Bunk Bed" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oERun3r" target="_blank">🔗Custom Bunk Bed</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://ae-pic-a1.aliexpress-media.com/kf/S8efb977b2cf54f728dc7c51833acefdbK.jpg_220x220q75.jpg_.avif" alt="Modern House Double Bed Frame" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://s.click.aliexpress.com/e/_onVVLQV" target="_blank">🔗Modern House Double Bed Frame</a></p>
-  </div>
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://ae-pic-a1.aliexpress-media.com/kf/S702bcc09692f43378fca183a6548b001P.jpg_220x220q75.jpg_.avif" alt="Twin Over Wall Bunk Beds" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
-    <p><a href="https://s.click.aliexpress.com/e/_oEY5mU5" target="_blank">🔗Twin Over Wall Bunk Beds</a></p>
   </div>
 
   <div style="flex: 1 1 200px; text-align: center;">

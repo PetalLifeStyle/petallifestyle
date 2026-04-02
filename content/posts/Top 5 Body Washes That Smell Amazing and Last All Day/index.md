@@ -26,58 +26,7 @@ If you’ve ever wondered how to smell good all day, how to smell fresh all day 
 
 You’ll also notice that every product on this list comes from thoughtfully chosen, **ethical beauty brands**. These are great alternative body washes for anyone looking to switch from mainstream brands while still enjoying high-quality, long-lasting scents. If you’re searching for body wash alternatives, ethical beauty replacements, or simply want better-smelling products that actually perform, this list is a great place to start.
 
-## 1. [Nécessaire The Body Wash – Best Overall Long-Lasting Scent](https://go.shopmy.us/p-36454349)
-
-- **Best for:** Clean, spa-like skin that smells expensive but not loud
-- **Key scent notes:** Eucalyptus (light and calming)
-- **Skin type:** All skin types, including sensitive
-- **Why it lasts:** Skin-conditioning vitamins help scent cling better
-
-If “fresh out of a luxury spa” were a smell, this would be it.
-
-[Nécessaire’s Body Wash](https://go.shopmy.us/p-36454349)is a cult favorite for a reason. The scent is subtle, clean, and grown. It doesn’t scream fragrance but somehow, hours later, your skin still smells quietly amazing. Think fresh towels, steam, and calm energy.
-
-What really helps the scent last is the vitamin-rich formula (niacinamide, vitamins A, C, and E). When your skin is hydrated, fragrance sticks around longer- science, but make it beauty.
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://credobeauty.com/cdn/shop/files/Necessaire_Bodywash_Eu_Jumbo_Highlights_04_990x.jpg?v=1697131123" alt="The Body Wash - Eucalyptus" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
-    <p>
-    <a href="https://go.shopmy.us/p-36454349">
-      🔗 The Body Wash - Eucalyptus
-    </a>
-  </p>
-  </div>
-</div>
-
-## 2. [L’Occitane Almond Shower Oil – Best for Dry Skin + Soft Scent](https://go.shopmy.us/p-36454754)
-
-- **Best for:** Dry skin, shaving days, soft cozy scent lovers
-- **Key scent notes:** Sweet almond
-- **Texture:** Oil-to-milk
-- **Why it lasts:** Nourishing oils lock in fragrance
-
-This is not your regular body wash - it’s a shower oil that turns into a creamy lather, and it’s pure luxury.
-
-The almond scent is warm, slightly sweet, and incredibly comforting. It’s not overpowering, but it lingers. The kind of smell that makes you want to crawl into clean sheets immediately.
-
-Bonus: because it’s oil-based, your skin stays moisturized long after you towel off, which means the scent sticks around longer than most gel washes.
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://media.ulta.com/i/ulta/2619014_alt03?w=800&h=800&fmt=auto" alt="L’Occitane Almond Shower Oil" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
-    <p>
-    <a href="https://go.shopmy.us/p-36454754">
-      🔗 L’Occitane Almond Shower Oil
-    </a>
-  </p>
-  </div>
-</div>
-
-<iframe title="Body Wash" src="https://shopmy.us/collections/embed/3257125?" style="width: 100%; min-height: 340px; border: none; margin: 20px"></iframe>
-
-## 3. [OUAI Body Cleanser – Best Perfume-Like Body Wash](https://go.shopmy.us/p-36456180)
+## 1. [OUAI Body Cleanser – Best Perfume-Like Body Wash](https://go.shopmy.us/p-36456180)
 
 - **Best for:** People who want their body wash to smell like a fragrance
 - **Key scent notes:** Rose, bergamot, lychee, white musk
@@ -90,19 +39,20 @@ This body wash smells expensive. The blend of floral, fruity, and musky notes ma
 
 It’s one of those “what are you wearing?” body washes.
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://media.ulta.com/i/ulta/2591483?w=800&h=800&fmt=auto" alt="OUAI Body Cleanser" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://media.ulta.com/i/ulta/2591483?w=800&h=800&fmt=auto" alt="OUAI Melrose Place Body Cleanser" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
     <p>
-    <a href="https://go.shopmy.us/p-36456180">
-      🔗 OUAI Body Cleanser
-    </a>
-  </p>
+      <a href="https://go.shopmy.us/p-36456180" target="_blank" rel="noopener noreferrer">
+        🔗 Shop OUAI Melrose Place Body Cleanser →
+      </a>
+    </p>
   </div>
 </div>
 
-## 4. [Sol de Janeiro Delícia Drench Shower Oil – Best Sweet & Cozy Scent](https://go.shopmy.us/p-36457005)
+
+
+## 2. [Sol de Janeiro Delícia Drench Shower Oil – Best Sweet & Cozy Scent](https://go.shopmy.us/p-36457005)
 
 - **Best for:** Sweet scent lovers, dry skin
 - **Key scent notes:** Soft florals, sandalwood
@@ -113,42 +63,93 @@ This one smells like a warm hug. Not overly sugary, not childish - just cozy, cr
 
 The oil formula deeply hydrates your skin, and that moisture helps the scent stay with you long after your shower. It’s especially great if you skip body lotion (same), because your skin already feels nourished.
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   <div style="flex: 1 1 200px; text-align: center;">
     <img src="https://media.ulta.com/i/ulta/2644751_alt01?w=1080&h=1080&fmt=auto" alt="Sol de Janeiro Delícia Drench Shower Oil" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
     <p>
-    <a href="https://go.shopmy.us/p-36457005">
-      🔗 Sol de Janeiro Delícia Drench Shower Oil 
-    </a>
-  </p>
+      <a href="https://go.shopmy.us/p-36457005" target="_blank" rel="noopener noreferrer">
+        🔗 Shop Sol de Janeiro Shower Oil →
+      </a>
+    </p>
   </div>
 </div>
 
-## 5. [By Rosie Jane Wake Body Wash – Best Fresh Morning Scent](https://go.shopmy.us/p-36459204)
 
-- **Best for:** Morning showers, citrus lovers
-- **Key scent notes:** Citrus, eucalyptus
-- **Skin type:** All skin types
-- **Why it lasts:** Clean scent that fades slowly instead of disappearing
+## 3. [Nécessaire The Body Wash – Best Overall Long-Lasting Scent](https://go.shopmy.us/p-36454349)
 
-This is the body wash equivalent of a strong iced coffee ☕.
+- **Best for:** Clean, spa-like skin that smells expensive but not loud
+- **Key scent notes:** Eucalyptus (light and calming)
+- **Skin type:** All skin types, including sensitive
+- **Why it lasts:** Skin-conditioning vitamins help scent cling better
 
-The citrus-eucalyptus blend is refreshing, energizing, and perfect for mornings when your soul hasn’t fully loaded yet. It smells clean and fresh for hours without turning sharp or soapy.
+If “fresh out of a luxury spa” were a smell, this would be it.
 
-If you want a long-lasting fresh body wash that doesn’t feel heavy or sweet, this is a solid choice.
+[Nécessaire’s Body Wash](https://go.shopmy.us/p-36454349)is a cult favorite for a reason. The scent is subtle, clean, and grown. It doesn’t scream fragrance but somehow, hours later, your skin still smells quietly amazing. Think fresh towels, steam, and calm energy.
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
+What really helps the scent last is the vitamin-rich formula (niacinamide, vitamins A, C, and E). When your skin is hydrated, fragrance sticks around longer- science, but make it beauty.
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://byrosiejane.com/cdn/shop/files/Wake_bodywash_07.jpg?v=1747761778&width=1900" alt="By Rosie Jane Wake Body Wash" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
+    <img src="https://credobeauty.com/cdn/shop/files/Necessaire_Bodywash_Eu_Jumbo_Highlights_04_990x.jpg?v=1697131123" alt="Nécessaire The Body Wash - Eucalyptus" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
     <p>
-    <a href="https://go.shopmy.us/p-36459204">
-      🔗 By Rosie Jane Wake Body Wash
-    </a>
-  </p>
+      <a href="https://go.shopmy.us/p-36454349" target="_blank" rel="noopener noreferrer">
+        🔗 Shop Nécessaire The Body Wash →
+      </a>
+    </p>
   </div>
 </div>
+
+## 4. [Bananal Perfumed Body Wash in Peach Floral Musk – Best Korean Fragrance Body Wash](https://go.shopmy.us/p-35566281)
+
+
+ > 🌍 Ships internationally - great if you're outside the US!
+
+**Best for:** People who want a long-lasting, perfume-quality scent from a body wash
+**Key scent notes:** Peach, soft florals, white musk
+**Skin type:** All skin types
+**Why it lasts:** Korean fragrance body wash formulas are specifically designed for all-day scent retention
+
+This is the sleeper hit of the list.
+Bananal is a Korean brand that takes fragrance seriously — like, "we put perfumers on this" seriously. The Peach Floral Musk scent is soft, feminine, and surprisingly long-lasting. It's the kind of body wash that makes people lean in and ask what you're wearing.
+If you're into K-beauty or want to branch out from Western brands, this is worth trying. It ships internationally through Stylevana, so it's actually accessible wherever you are.
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="https://sv9-cdn.stylevana.com/media/catalog/product/cache/7e00eb21d3013c69d32459d0d98e2fbf/b/a/bananal-perfumed-body-wash-peach-floral-musk-500ml-932.jpg" alt="Bananal Perfumed Body Wash" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
+    <p>
+      <a href="https://go.shopmy.us/p-35566281" target="_blank" rel="noopener noreferrer">
+        🔗 Shop Bananal Perfumed Body Wash on Stylevana →
+      </a>
+    </p>
+  </div>
+</div>
+
+
+
+## 5. [KWAILNARA Milk Body Cleanser – Best for Soft, Subtle Scent](https://go.shopmy.us/p-35565561)
+
+ >  🌍 Ships internationally — great if you're outside the US!
+
+**Best for:** Sensitive skin, subtle scent lovers, people who want clean without heavy fragrance
+**Key scent notes:** Warm milk, soft powdery
+**Skin type:** All, especially sensitive or dry
+**Why it lasts:** Milk proteins condition skin, helping scent linger naturally
+
+Not everyone wants to smell like they bathed in a perfume bottle — and this one is for you.
+Kwailnara's Milk Body Cleanser has a cozy, understated scent that's warm without being loud. It's creamy, gentle, and leaves skin feeling genuinely soft. Think: clean laundry + warm skin, not fragrance counter.
+It's also an excellent option if you have sensitive skin or find Western body washes too harsh or overly fragranced. Available through Stylevana and ships internationally.
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
+  <div style="flex: 1 1 200px; text-align: center;">
+    <img src="https://d1flfk77wl2xk4.cloudfront.net/Assets/43/557/XXL_p0186355743.jpg" alt="Kwailnara Milk Body Cleanser" style="max-width: 40%; height: auto; display: block; margin: 0 auto;" />
+    <p>
+      <a href="https://go.shopmy.us/p-35565561" target="_blank" rel="noopener noreferrer">
+        🔗 Shop Kwailnara Milk Body Cleanser on Stylevana →
+      </a>
+    </p>
+  </div>
+</div>
+
+
 
 # How to Make Your Body Wash Scent Last Even Longer
 
@@ -204,5 +205,7 @@ A great body wash should do more than clean - it should make you feel put togeth
 
 Because honestly?
 Smelling good shouldn’t require effort. It should start with a really good lather. 
+
+[Browse my full body wash collection →](https://shopmy.us/shop/collections/3257125)
 
 

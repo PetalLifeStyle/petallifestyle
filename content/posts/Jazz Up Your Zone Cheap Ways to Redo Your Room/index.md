@@ -23,7 +23,7 @@ Good news: your room can go from "just a place I sleep" to "a place I actually w
  
 *Heads up: Some links in this post are affiliate links. If you buy through them, I may earn a small commission at no extra cost to you. Your support keeps this blog going.*
 
-***Disclaimer: Some of the links or references on this page may contain images of women. We kindly advise our brothers in faith to avoid clicking on them, so that their nazar may remain in ḥifāẓat. By placing this note, we intend to keep ourselves free from any blame. If one still chooses to proceed, the responsibility lies with them alone.***
+***Disclaimer: Some external product pages may contain images of women. Brothers in faith, please proceed with caution. Responsibility lies with the individual.***
 
 ---
  
@@ -112,7 +112,7 @@ One thing I'll say about aesthetic lighting: it works best when you turn off the
  
 ---
 
-# 3. Throw Pillows and Textiles: The Quickest Vibe Shift
+## 3. Throw Pillows and Textiles: The Quickest Vibe Shift
  
 Pillows are doing a lot of work in any well-styled room. They add color, texture, softness, and personality, and they're one of the easiest things to swap out seasonally.
  
@@ -133,7 +133,7 @@ The **[Flower Plushies](https://go.shopmy.us/p-50689486)** and **[Moon and Star 
     <p><a href="https://go.shopmy.us/p-50689486" target="_blank" rel="noopener noreferrer">🔗 Shop Flower Plushies →</a></p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="Moon and Star Plushie Pillows.png" alt="Cute Star Led Plug-In Night Light" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="Moon and Star Plushie Pillows.png" alt="Moon and Star Plushie Pillows" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://go.shopmy.us/p-28457968" target="_blank" rel="noopener noreferrer">🔗 Shop Moon and Star Plushie Pillows →</a></p>
   </div>
 </div>
@@ -166,7 +166,7 @@ Here's a truth nobody says out loud: clutter is the number one thing making your
     <p><a href="https://go.shopmy.us/p-31711541" target="_blank" rel="noopener noreferrer">🔗 Shop Retro Chic Felt Fabric Storage Box →</a></p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <img src="https://www.containerstore.com/catalogimages/475214/CF_21_Customer_Favorites-Cover.jpg?width=1200&height=1200&align=center" alt="Cambridge Shirt Box Black work" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+    <img src="cambridge-shirt-box-black.png" alt="Cambridge Shirt Box Black" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://go.shopmy.us/p-50365005" target="_blank" rel="noopener noreferrer">🔗 Shop Cambridge Shirt Box Black work →</a></p>
   </div>
 </div>
@@ -181,12 +181,10 @@ Here's a truth nobody says out loud: clutter is the number one thing making your
     <p><a href="https://go.shopmy.us/p-29883080" target="_blank" rel="noopener noreferrer">🔗 Shop Make Your Lobda Desk Organizer →</a></p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <!-- LOCAL IMAGE: save your screenshot as pastel-gingham-organizer.png in this post's folder -->
     <img src="pastel-gingham-organizer.png" alt="Pastel gingham desktop stationery organizer in pink and white grid pattern with multiple pen and supply slots" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://go.shopmy.us/p-52778143" target="_blank" rel="noopener noreferrer">🔗 Shop Pastel Gingham Desktop Organizer →</a></p>
   </div>
   <div style="flex: 1 1 200px; text-align: center;">
-    <!-- LOCAL IMAGE: save your screenshot as wall-peg-board-shelf.png in this post's folder -->
     <img src="wall-peg-board-shelf.png" alt="White wall peg board and shelf kit for small room desk organisation with hooks and a display shelf" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
     <p><a href="https://go.shopmy.us/p-52780479" target="_blank" rel="noopener noreferrer">🔗 Shop Wall Peg Board and Shelf Kit →</a></p>
   </div>
@@ -214,8 +212,6 @@ The **[Joss and Main Arranjeet Mirror](https://go.shopmy.us/p-53167107)** is lov
 Placement matters more than the mirror itself. Put it across from a window so it reflects natural light, or lean it against a wall at an angle if you don't want to drill.
  
 ---
- 
-## 6. DIY Ideas That Are Actually Worth Your Time
  
 ## 6. DIY Ideas That Are Actually Worth Your Time
  

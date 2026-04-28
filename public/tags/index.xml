@@ -462,11 +462,51 @@
     </item>
     
     <item>
-      <title>Sunscreens</title>
-      <link>http://localhost:1313/tags/sunscreens/</link>
+      <title>KBeauty</title>
+      <link>http://localhost:1313/tags/kbeauty/</link>
       <pubDate>Sun, 22 Jun 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
-      <guid>http://localhost:1313/tags/sunscreens/</guid>
+      <guid>http://localhost:1313/tags/kbeauty/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Skincareroutine</title>
+      <link>http://localhost:1313/tags/skincareroutine/</link>
+      <pubDate>Sun, 22 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/skincareroutine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SPF</title>
+      <link>http://localhost:1313/tags/spf/</link>
+      <pubDate>Sun, 22 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/spf/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sunprotection</title>
+      <link>http://localhost:1313/tags/sunprotection/</link>
+      <pubDate>Sun, 22 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/sunprotection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sunscreen</title>
+      <link>http://localhost:1313/tags/sunscreen/</link>
+      <pubDate>Sun, 22 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/sunscreen/</guid>
       <description></description>
       
     </item>
@@ -547,16 +587,6 @@
       <pubDate>Thu, 12 Jun 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
       <guid>http://localhost:1313/tags/hyaluronicacid/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Kbeauty</title>
-      <link>http://localhost:1313/tags/kbeauty/</link>
-      <pubDate>Thu, 12 Jun 2025 06:32:00 +0000</pubDate>
-      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
-      <guid>http://localhost:1313/tags/kbeauty/</guid>
       <description></description>
       
     </item>
@@ -662,11 +692,21 @@
     </item>
     
     <item>
-      <title>TonarPads</title>
-      <link>http://localhost:1313/tags/tonarpads/</link>
+      <title>GlowySkin</title>
+      <link>http://localhost:1313/tags/glowyskin/</link>
       <pubDate>Sat, 07 Jun 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
-      <guid>http://localhost:1313/tags/tonarpads/</guid>
+      <guid>http://localhost:1313/tags/glowyskin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TonerPads</title>
+      <link>http://localhost:1313/tags/tonerpads/</link>
+      <pubDate>Sat, 07 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/tonerpads/</guid>
       <description></description>
       
     </item>
@@ -682,11 +722,61 @@
     </item>
     
     <item>
-      <title>ViralSkincare</title>
-      <link>http://localhost:1313/tags/viralskincare/</link>
+      <title>BeginnerSkincare</title>
+      <link>http://localhost:1313/tags/beginnerskincare/</link>
       <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
-      <guid>http://localhost:1313/tags/viralskincare/</guid>
+      <guid>http://localhost:1313/tags/beginnerskincare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DoubleCleanseRoutine</title>
+      <link>http://localhost:1313/tags/doublecleanseroutine/</link>
+      <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/doublecleanseroutine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GlassSkin</title>
+      <link>http://localhost:1313/tags/glassskin/</link>
+      <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/glassskin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KBeautyRoutine</title>
+      <link>http://localhost:1313/tags/kbeautyroutine/</link>
+      <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/kbeautyroutine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KoreanBeautyProducts</title>
+      <link>http://localhost:1313/tags/koreanbeautyproducts/</link>
+      <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/koreanbeautyproducts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KoreanSkincareForBeginners</title>
+      <link>http://localhost:1313/tags/koreanskincareforbeginners/</link>
+      <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/koreanskincareforbeginners/</guid>
       <description></description>
       
     </item>
@@ -917,6 +1007,16 @@
       <pubDate>Wed, 14 May 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
       <guid>http://localhost:1313/tags/bathroomdecor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ViralSkincare</title>
+      <link>http://localhost:1313/tags/viralskincare/</link>
+      <pubDate>Sat, 10 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/tags/viralskincare/</guid>
       <description></description>
       
     </item>

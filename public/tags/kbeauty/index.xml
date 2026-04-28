@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kbeauty on Petal Lifestyle</title>
+    <title>KBeauty on Petal Lifestyle</title>
     <link>http://localhost:1313/tags/kbeauty/</link>
-    <description>Recent content in Kbeauty on Petal Lifestyle</description>
+    <description>Recent content in KBeauty on Petal Lifestyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
     <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
     
-    <lastBuildDate>Thu, 12 Jun 2025 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kbeauty/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jun 2025 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kbeauty/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Best Korean Sunscreens for Every Skin Type (Honest Reviews)</title>
+      <link>http://localhost:1313/posts/the-best-korean-sunscreens-based-on-skin-type/</link>
+      <pubDate>Sun, 22 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/the-best-korean-sunscreens-based-on-skin-type/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-best-korean-sunscreens-based-on-skin-type/featured.webp" />
+    </item>
     
     <item>
       <title>The Best Body Lotions for Dry Skin in Winter (That Actually Work)</title>
@@ -19,6 +29,26 @@
       <guid>http://localhost:1313/posts/the-best-body-lotions-for-dry-skin-in-winter/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-best-body-lotions-for-dry-skin-in-winter/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Top 5 Korean Toner Pads to Actually Transform Your Skin (Honest Review)</title>
+      <link>http://localhost:1313/posts/top-5-korean-toner-pads-to-transform-your-skincare-routine/</link>
+      <pubDate>Sat, 07 Jun 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/top-5-korean-toner-pads-to-transform-your-skincare-routine/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/top-5-korean-toner-pads-to-transform-your-skincare-routine/featured.webp" />
+    </item>
+    
+    <item>
+      <title>The 7-Step Korean Skincare Routine: What You Actually Need (No Fluff)</title>
+      <link>http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/</link>
+      <pubDate>Thu, 29 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/featured.webp" />
     </item>
     
   </channel>

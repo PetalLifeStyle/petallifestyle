@@ -25,9 +25,13 @@ These picks are different. Whether you have sensitive skin, eczema-prone skin, o
  
  > All products on this list are selected from trusted, ethical skincare brands - great body lotion alternatives if you're avoiding certain mainstream or boycotted products.
 
-***Disclaimer: Some of the links or references on this page may contain images of women. We kindly advise our brothers in faith to avoid clicking on them, so that their nazar may remain in hifazat (protection). By placing this note, we intend to keep ourselves free from any blame. If one still chooses to proceed, the responsibility lies with them alone.***
- 
-*Some links in this post are affiliate links. If you buy through them, I earn a small commission at no extra cost to you. It helps me keep this blog running - thank you!*
+> ✨ *Some links in this post are affiliate links. If you purchase through 
+> them, I may earn a small commission at no extra cost to you. It helps 
+> keep this blog going!*
+
+> 🌿 *Some external product pages may contain images of women. Brothers in 
+> faith, please proceed with caution. Responsibility lies with the 
+> individual.*
 
 ---
  

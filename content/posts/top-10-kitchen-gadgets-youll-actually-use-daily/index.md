@@ -25,7 +25,13 @@ And honestly… make your kitchen look 10x cuter
 
 If you’re building your dream kitchen (without filling it with useless gadgets), these are the ones you’ll genuinely use every single day.
 
-*Disclaimer: Some of the links or references on this page may contain images of women. We kindly advise our brothers in faith to avoid clicking on them, so that their nazar may remain in ḥifāẓat (protection). By placing this note, we intend to keep ourselves free from any blame. If one still chooses to proceed, the responsibility lies with them alone.*
+> ✨ *Some links in this post are affiliate links. If you purchase through 
+> them, I may earn a small commission at no extra cost to you. It helps 
+> keep this blog going!*
+
+> 🌿 *Some external product pages may contain images of women. Brothers in 
+> faith, please proceed with caution. Responsibility lies with the 
+> individual.*
 
 ## 1. [Wonder Oven®](https://go.shopmy.us/p-28119055)– The 6-in-1 Compact Air Fryer Toaster Oven
 

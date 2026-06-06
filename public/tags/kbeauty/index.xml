@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KBeauty on Petal Lifestyle</title>
+    <title>Kbeauty on Petal Lifestyle</title>
     <link>http://localhost:1313/tags/kbeauty/</link>
-    <description>Recent content in KBeauty on Petal Lifestyle</description>
+    <description>Recent content in Kbeauty on Petal Lifestyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
@@ -49,6 +49,16 @@
       <guid>http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/the-7-step-korean-skincare-routine-what-you-actually-need/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Viral Korean Skincare Products That Are Actually Worth the Hype (2025 Edition)</title>
+      <link>http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/</link>
+      <pubDate>Sat, 10 May 2025 06:32:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/viral-korean-skincare-products-that-are-totally-worth-the-hype/featured.webp" />
     </item>
     
   </channel>

@@ -120,7 +120,7 @@ If there is one thing that separates a dreamy cutecore room from a regular room 
   </div>
 </div>
 
-If none of these fit your space, [Kore Kawaii](https://korekawaii.com?sca_ref=9607658.UldVQA6tqR) also makes a [tulip-shaped night light](https://korekawaii.com/products/kawaii-tulip-night-light?sca_ref=9607658.UldVQA6tqR) and a [DIY tulip cloud light](https://korekawaii.com/products/kawaii-diy-tulip-cloud-led-night-light?sca_ref=9607658.UldVQA6tqR) that are worth a look, both cheaper and more novelty-focused than the two above (code **PETAL10** applies here too, plus free global shipping).
+If none of these fit your space, [Kore Kawaii](https://korekawaii.com?sca_ref=9607658.UldVQA6tqR) also makes a [tulip-shaped night light](https://korekawaii.com/products/kawaii-tulip-night-light?sca_ref=9607658.UldVQA6tqR) and a [DIY tulip cloud light](https://korekawaii.com/products/kawaii-diy-tulip-cloud-led-night-light?sca_ref=9607658.UldVQA6tqR) that are worth a look, both cheaper and more novelty-focused than the two above.
 
 **Honest note:** many AliExpress lights look stunning in photos but the quality is genuinely inconsistent from batch to batch. That's part of why I keep coming back to the same small handful of sellers above instead of chasing whatever's trending that week.
 
@@ -153,7 +153,7 @@ The key is curation, not quantity. A small collection of plushies you love will 
   </div>
 </div>
 
-If you want more once you've started the collection, the [flower plushies](https://korekawaii.com/products/kawaii-flower-plushies?sca_ref=9607658.UldVQA6tqR), [chocolate chip cookie pillow](https://korekawaii.com/products/chocolate-chip-cookie-plushie-pillow?sca_ref=9607658.UldVQA6tqR), and [peach pillow plushie](https://korekawaii.com/products/kawaii-peach-pillow-plushie?sca_ref=9607658.UldVQA6tqR) are all cut from the same food-and-nature-shaped, face-free mould. Code **PETAL10** works site-wide at [korekawaii.com](https://korekawaii.com?sca_ref=9607658.UldVQA6tqR).
+If you want more once you've started the collection, the [flower plushies](https://korekawaii.com/products/kawaii-flower-plushies?sca_ref=9607658.UldVQA6tqR), [chocolate chip cookie pillow](https://korekawaii.com/products/chocolate-chip-cookie-plushie-pillow?sca_ref=9607658.UldVQA6tqR), and [peach pillow plushie](https://korekawaii.com/products/kawaii-peach-pillow-plushie?sca_ref=9607658.UldVQA6tqR) are all cut from the same food-and-nature-shaped, face-free mould. 
 
 **A note on halal-friendly choices:** food-shaped and celestial plushies are your best friend in the cutecore world, they fit the aesthetic perfectly without featuring animal or cartoon faces.
 
@@ -186,7 +186,7 @@ The formula: soft desk pad, warm lighting nearby, a tidy organiser that looks be
   </div>
 </div>
 
-If you want to go further, the [Pastel Pink and Green Wireless Keyboard by Kore Kawaii](https://korekawaii.com/products/pastel-pink-green-wireless-keyboard?sca_ref=9607658.UldVQA6tqR) is a proper functional keyboard, not just a decorative piece, that looks stunning on a finished desk (code **PETAL10** applies here as well). And the [Fallin Design organisers](https://www.fallindesign.com/make-your-lobda-desk-organizer/?ref=PETAL20) are worth a look if you want a more minimalist, less pastel-forward organiser.
+If you want to go further, the [Pastel Pink and Green Wireless Keyboard by Kore Kawaii](https://korekawaii.com/products/pastel-pink-green-wireless-keyboard?sca_ref=9607658.UldVQA6tqR) is a proper functional keyboard, not just a decorative piece, that looks stunning on a finished desk. And the [Fallin Design organisers](https://www.fallindesign.com/make-your-lobda-desk-organizer/?ref=PETAL20) are worth a look if you want a more minimalist, less pastel-forward organiser.
 
 **Also into journaling at your desk?** Check out my post on [building a cosy reading corner](https://petallifestyle.pages.dev/posts/how-to-create-a-cozy-reading-corner-thats-pure-bliss/), many of those tips translate beautifully to a journaling setup.
 
@@ -219,7 +219,7 @@ A plain builder-basic nightstand next to an otherwise dreamy setup is the kind o
   </div>
 </div>
 
-All three are shaped, not printed with characters or faces, so they slot into a halal-conscious room without a second thought. All three also qualify for code **PETAL10** and Kore Kawaii's free global shipping.
+All three are shaped, not printed with characters or faces, so they slot into a halal-conscious room without a second thought.
 
 ---
 
@@ -277,8 +277,7 @@ A cutecore room stops at the ankles if you forget the floor. A soft, shaped rug 
   </div>
 </div>
 
-If you want more options, the [Field of Daisies Rug](https://korekawaii.com/products/field-of-daisies-rug?variant=40643872161870&sca_ref=9607658.UldVQA6tqR), [Vibrant Plush Flowers Rug](https://korekawaii.com/products/vibrant-plush-flowers-rug?sca_ref=9607658.UldVQA6tqR), and [Plush Carpet Tiles](https://korekawaii.com/products/kawaii-plush-carpet-tiles?sca_ref=9607658.UldVQA6tqR) (great for covering an odd-shaped floor piece by piece) are all worth a look. Same code applies here too: **PETAL10** at [korekawaii.com](https://korekawaii.com?sca_ref=9607658.UldVQA6tqR), plus free global shipping.
-
+If you want more options, the [Field of Daisies Rug](https://korekawaii.com/products/field-of-daisies-rug?variant=40643872161870&sca_ref=9607658.UldVQA6tqR), [Vibrant Plush Flowers Rug](https://korekawaii.com/products/vibrant-plush-flowers-rug?sca_ref=9607658.UldVQA6tqR), and [Plush Carpet Tiles](https://korekawaii.com/products/kawaii-plush-carpet-tiles?sca_ref=9607658.UldVQA6tqR) (great for covering an odd-shaped floor piece by piece) are all worth a look. 
 ---
 
 ### 8. Plants and Vases: Bring in Something Living
@@ -306,7 +305,7 @@ Plants do something to a room that no decor item can replicate. They add life, t
   </div>
 </div>
 
-If you want something with more of a kawaii edge, the [Kawaii Venus Fly Trap Storage Box by Kore Kawaii](https://korekawaii.com/products/kawaii-venus-fly-trap-storage-box?sca_ref=9607658.UldVQA6tqR) is technically a storage container shaped like a plant, which is such a cutecore thing to exist. Don't forget the Code **PETAL10**.
+If you want something with more of a kawaii edge, the [Kawaii Venus Fly Trap Storage Box by Kore Kawaii](https://korekawaii.com/products/kawaii-venus-fly-trap-storage-box?sca_ref=9607658.UldVQA6tqR) is technically a storage container shaped like a plant, which is such a cutecore thing to exist.
 
 ---
 
@@ -488,7 +487,7 @@ Building a cutecore room is genuinely one of the most enjoyable home projects be
 
 Start small, shop intentionally, and trust the process. If you only take one thing from this whole guide: fix your lighting before you buy anything else. Everything downstream of that decision looks better.
 
-If you found this helpful, share it with a friend who is also trying to create their perfect aesthetic space. Save this post for when you are ready to shop the next layer, drop a comment with the piece you are adding first, and if you want more finds like the rugs and bedside tables above before they make it to the blog, the newsletter is where I share them first.
+If you found this helpful, share it with a friend who is also trying to create their perfect aesthetic space. Save this post for when you are ready to shop the next layer and if you want more finds like the rugs and bedside tables above before they make it to the blog, the newsletter is where I share them first.
 
 ---
 

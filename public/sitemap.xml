@@ -4,13 +4,25 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-07T08:00:00+00:00</lastmod>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-07-07T08:00:00+00:00</lastmod>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/eclectic-boho-bedroom-ideas-design-your-space-with-vintage-bohemian-and-modern-touches/</loc>
+    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/essentials-for-an-aesthetic-home-office/</loc>
+    <lastmod>2026-07-11T06:32:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -47,12 +59,6 @@
   <url>
     <loc>http://localhost:1313/posts/how-to-smell-good-all-day-long-the-ultimate-guide/</loc>
     <lastmod>2025-07-17T06:32:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/essentials-for-an-aesthetic-home-office/</loc>
-    <lastmod>2025-07-16T06:32:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -131,12 +137,6 @@
   <url>
     <loc>http://localhost:1313/posts/10-must-have-cute-desk-gadgets-for-productivity-and-aesthetics/</loc>
     <lastmod>2025-06-20T06:32:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/posts/eclectic-boho-bedroom-ideas-design-your-space-with-vintage-bohemian-and-modern-touches/</loc>
-    <lastmod>2025-06-14T06:32:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

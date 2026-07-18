@@ -9,7 +9,17 @@
     <managingEditor>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</managingEditor>
     <webMaster>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</webMaster>
     
-    <lastBuildDate>Tue, 07 Jul 2026 06:32:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/categories/home-decor/</link>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
+      <guid>http://localhost:1313/categories/home-decor/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title></title>
@@ -57,16 +67,6 @@
       <pubDate>Thu, 17 Jul 2025 06:32:00 +0000</pubDate>
       <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
       <guid>http://localhost:1313/categories/bodycare/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/categories/home-decor/</link>
-      <pubDate>Wed, 16 Jul 2025 06:32:00 +0000</pubDate>
-      <author>petallifestyle20@gmail.com (Welcome To Petal Lifestyle)</author>
-      <guid>http://localhost:1313/categories/home-decor/</guid>
       <description></description>
       
     </item>
